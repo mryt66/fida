@@ -1,0 +1,61 @@
+[
+  {
+    "idx": 0,
+    "url": "https://www.fidamusic.pl/sklep",
+    "status": 200,
+    "mime": "text/html",
+    "size": 117475,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 41,
+    "url": "https://www.fidamusic.pl/torba-zakupowa-w-czerwonosci",
+    "status": 200,
+    "mime": "text/html",
+    "size": 124110,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 76,
+    "url": "https://www.fidamusic.pl/checkout?cart_id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg&lang=pl&cookieConsentAnalytics=1&cookieConsentMarketing=1&cookieConsentPlatformAnalytics=0",
+    "status": 200,
+    "mime": "text/html",
+    "size": 1547,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 91,
+    "url": "https://www.fidamusic.pl/favicon.svg",
+    "status": 404,
+    "mime": "text/html",
+    "size": 7031,
+    "category": "text/html",
+    "saved": null
+  },
+  {
+    "idx": 120,
+    "url": "https://www.fidamusic.pl/torba-zakupowa-korale",
+    "status": 200,
+    "mime": "text/html",
+    "size": 123973,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 154,
+    "url": "https://www.fidamusic.pl/checkout?cart_id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVZQlNUWEI5TkREWEs5UUNHRzY5SiIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNjMsImV4cCI6MTc4MzA5NzA2MywiYXVkIjoiY2FydCJ9.m5DoIBj3w8Jg9IwImESP8bAVmVI7uMuGB3YKVX0Xho0&lang=pl&cookieConsentAnalytics=1&cookieConsentMarketing=1&cookieConsentPlatformAnalytics=0",
+    "status": 200,
+    "mime": "text/html",
+    "size": 1547,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  }
+]

@@ -1,0 +1,202 @@
+[
+  {
+    "idx": 1,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-faces?family=Alata:wght@400&family=Rubik:wght@300;400&family=Playfair+Display:wght@400;700&family=Space+Grotesk:wght@400&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 11724,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 2,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_..D9s3Ry08.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 363435,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 3,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/cookieconsent.CpXrOrr9.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 32115,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 4,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.DWsMedUh.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 358193,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 42,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-faces?family=Alata:wght@400&family=Rubik:wght@300;400&family=Playfair+Display:wght@400;700&family=Space+Grotesk:wght@400&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 11724,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 43,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_..D9s3Ry08.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 363435,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 44,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/cookieconsent.CpXrOrr9.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 32115,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 45,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.DWsMedUh.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 358193,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 77,
+    "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 16755,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 81,
+    "url": "https://checkout.hostinger.com/assets/css/VCard.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 405800,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 82,
+    "url": "https://checkout.hostinger.com/assets/css/index.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 390463,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 86,
+    "url": "https://checkout.hostinger.com/assets/css/CheckoutPage.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 20154,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 121,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-faces?family=Alata:wght@400&family=Rubik:wght@300;400&family=Playfair+Display:wght@400;700&family=Space+Grotesk:wght@400&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 11724,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 122,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_..D9s3Ry08.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 363435,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 123,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/cookieconsent.CpXrOrr9.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 32115,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 124,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.DWsMedUh.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 358193,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 155,
+    "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 16755,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 159,
+    "url": "https://checkout.hostinger.com/assets/css/VCard.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 405800,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 160,
+    "url": "https://checkout.hostinger.com/assets/css/index.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 390463,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 164,
+    "url": "https://checkout.hostinger.com/assets/css/CheckoutPage.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 20154,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  }
+]

@@ -1,0 +1,396 @@
+[
+  {
+    "idx": 27,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 28,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 29,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 200,
+    "mime": "application/json",
+    "size": 557,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 31,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 68,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products/torba-zakupowa-w-czerwonosci?field=slug",
+    "status": 200,
+    "mime": "application/json",
+    "size": 4285,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 69,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 200,
+    "mime": "application/json",
+    "size": 557,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 72,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0",
+    "status": 200,
+    "mime": "application/json",
+    "size": 81,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 74,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/checkout",
+    "status": 200,
+    "mime": "application/json",
+    "size": 317,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 84,
+    "url": "https://o324647.ingest.sentry.io/api/6392595/envelope/?sentry_key=474500ee289c4c3a83e8f85bd6efcac1&sentry_version=7&sentry_client=sentry.javascript.vue%2F7.120.4",
+    "status": 200,
+    "mime": "application/json",
+    "size": 2,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 89,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 200,
+    "mime": "application/json",
+    "size": 8241,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 92,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/regions",
+    "status": 200,
+    "mime": "application/json",
+    "size": 316,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 94,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 200,
+    "mime": "application/json",
+    "size": 20,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 95,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg/store",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1123,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 104,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 200,
+    "mime": "application/json",
+    "size": 557,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 105,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 200,
+    "mime": "application/json",
+    "size": 20,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 106,
+    "url": "https://builder-backend.hostinger.com/v3/sites/m5KL36pk2XCPBlMl/integrations",
+    "status": 200,
+    "mime": "application/json",
+    "size": 45,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 110,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 200,
+    "mime": "application/json",
+    "size": 8923,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 112,
+    "url": "https://api-ecommerce.hostinger.com/store/shipping-options/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 200,
+    "mime": "application/json",
+    "size": 911,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 114,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg/shipping-methods",
+    "status": 200,
+    "mime": "application/json",
+    "size": 9552,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 116,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 404,
+    "mime": "application/json",
+    "size": 104,
+    "category": "application/json",
+    "saved": null
+  },
+  {
+    "idx": 146,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products/torba-zakupowa-korale?field=slug",
+    "status": 200,
+    "mime": "application/json",
+    "size": 4240,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 147,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 200,
+    "mime": "application/json",
+    "size": 557,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 150,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J",
+    "status": 200,
+    "mime": "application/json",
+    "size": 81,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 152,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/checkout",
+    "status": 200,
+    "mime": "application/json",
+    "size": 317,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 162,
+    "url": "https://o324647.ingest.sentry.io/api/6392595/envelope/?sentry_key=474500ee289c4c3a83e8f85bd6efcac1&sentry_version=7&sentry_client=sentry.javascript.vue%2F7.120.4",
+    "status": 200,
+    "mime": "application/json",
+    "size": 2,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 167,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVZQlNUWEI5TkREWEs5UUNHRzY5SiIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNjMsImV4cCI6MTc4MzA5NzA2MywiYXVkIjoiY2FydCJ9.m5DoIBj3w8Jg9IwImESP8bAVmVI7uMuGB3YKVX0Xho0",
+    "status": 200,
+    "mime": "application/json",
+    "size": 8177,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 169,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/regions",
+    "status": 200,
+    "mime": "application/json",
+    "size": 316,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 171,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 200,
+    "mime": "application/json",
+    "size": 20,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 176,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": "data/176_8717ee8d5e_collections.json"
+  },
+  {
+    "idx": 177,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?order=ASC&sort_by=price&offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": "data/177_1bcf1e1163_products.json"
+  },
+  {
+    "idx": 178,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": "data/178_ba5d73fdd4_variants.json"
+  },
+  {
+    "idx": 186,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": "data/176_8717ee8d5e_collections.json",
+    "duplicate_of": "176_8717ee8d5e_collections.json"
+  },
+  {
+    "idx": 187,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?order=DESC&sort_by=price&offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": "data/187_6e7b381d67_products.json"
+  },
+  {
+    "idx": 188,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": "data/178_ba5d73fdd4_variants.json",
+    "duplicate_of": "178_ba5d73fdd4_variants.json"
+  },
+  {
+    "idx": 196,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": "data/176_8717ee8d5e_collections.json",
+    "duplicate_of": "176_8717ee8d5e_collections.json"
+  },
+  {
+    "idx": 197,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?order=DESC&sort_by=created_at&offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": "data/197_3e3dd0472f_products.json"
+  },
+  {
+    "idx": 198,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": "data/178_ba5d73fdd4_variants.json",
+    "duplicate_of": "178_ba5d73fdd4_variants.json"
+  },
+  {
+    "idx": 206,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": "data/176_8717ee8d5e_collections.json",
+    "duplicate_of": "176_8717ee8d5e_collections.json"
+  },
+  {
+    "idx": 207,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?order=DESC&sort_by=created_at&offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": "data/197_3e3dd0472f_products.json",
+    "duplicate_of": "197_3e3dd0472f_products.json"
+  },
+  {
+    "idx": 208,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": "data/178_ba5d73fdd4_variants.json",
+    "duplicate_of": "178_ba5d73fdd4_variants.json"
+  }
+]

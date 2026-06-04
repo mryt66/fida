@@ -1,0 +1,4 @@
+Sitemap: https://www.fidamusic.pl/sitemap.xml
+
+User-agent: *
+Disallow:

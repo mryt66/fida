@@ -1,0 +1,524 @@
+[
+  {
+    "idx": 5,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 5038,
+    "category": "images",
+    "saved": "images/005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif"
+  },
+  {
+    "idx": 22,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 23,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=32,h=32,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 743,
+    "category": "images",
+    "saved": "images/023_6e4624ed8b_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 26,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=16,h=16,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 421,
+    "category": "images",
+    "saved": "images/026_15d36d1b31_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 32,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 35,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 36,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 37,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 38,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 39,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 40,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  },
+  {
+    "idx": 46,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 5038,
+    "category": "images",
+    "saved": "images/005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif",
+    "duplicate_of": "005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif"
+  },
+  {
+    "idx": 65,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 71,
+    "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 1893277,
+    "category": "images",
+    "saved": "images/071_1320178164_214e3b12-1847-4e11-a8ec-d6431fe32f03.png"
+  },
+  {
+    "idx": 73,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=scale-down/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 38902,
+    "category": "images",
+    "saved": "images/073_a9cbefb070_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 100,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/webp",
+    "size": 7458,
+    "category": "images",
+    "saved": "images/100_75b9f2c1b1_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.webp"
+  },
+  {
+    "idx": 101,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 69498,
+    "category": "images",
+    "saved": "images/101_2d3d03fe27_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 103,
+    "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/webp",
+    "size": 1243558,
+    "category": "images",
+    "saved": "images/103_371bcf30b7_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.webp"
+  },
+  {
+    "idx": 118,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 119,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 125,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 5038,
+    "category": "images",
+    "saved": "images/005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif",
+    "duplicate_of": "005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif"
+  },
+  {
+    "idx": 145,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 149,
+    "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 1601151,
+    "category": "images",
+    "saved": "images/149_32d839a9a0_02410eab-6df0-41cc-b26b-25d577d8b304.png"
+  },
+  {
+    "idx": 151,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=scale-down/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 25314,
+    "category": "images",
+    "saved": "images/151_bca0c45597_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 174,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 175,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 179,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif",
+    "duplicate_of": "037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 180,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif",
+    "duplicate_of": "038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 181,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif",
+    "duplicate_of": "036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 182,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif",
+    "duplicate_of": "032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 183,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif",
+    "duplicate_of": "035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 184,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif",
+    "duplicate_of": "040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  },
+  {
+    "idx": 185,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif",
+    "duplicate_of": "039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 189,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif",
+    "duplicate_of": "039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 190,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif",
+    "duplicate_of": "040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  },
+  {
+    "idx": 191,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif",
+    "duplicate_of": "035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 192,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif",
+    "duplicate_of": "032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 193,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif",
+    "duplicate_of": "037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 194,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif",
+    "duplicate_of": "038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 195,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif",
+    "duplicate_of": "036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 199,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif",
+    "duplicate_of": "032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 200,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif",
+    "duplicate_of": "035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 201,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif",
+    "duplicate_of": "036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 202,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif",
+    "duplicate_of": "037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 203,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif",
+    "duplicate_of": "038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 204,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif",
+    "duplicate_of": "039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 205,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif",
+    "duplicate_of": "040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  },
+  {
+    "idx": 209,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif",
+    "duplicate_of": "032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 210,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif",
+    "duplicate_of": "035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 211,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif",
+    "duplicate_of": "036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 212,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif",
+    "duplicate_of": "037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 213,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif",
+    "duplicate_of": "038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 214,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif",
+    "duplicate_of": "039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 215,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif",
+    "duplicate_of": "040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  }
+]

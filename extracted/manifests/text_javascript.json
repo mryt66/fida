@@ -1,0 +1,332 @@
+[
+  {
+    "idx": 7,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/ClientHead.BhQ41lFz.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1410,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 8,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/client.CQ56Exff.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1450,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 9,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.BBx781pU.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1171613,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 10,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Integrations.CxyLDUaq.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 2999,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 17,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/siteModulesConstants.DTCMNMjx.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 3531,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 18,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/googleConsentMode.B1hG4Ws9.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 25845,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 19,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_plugin-vue_export-helper.DlAUqK2U.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 91,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 20,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/runtime-core.esm-bundler.BM0OPItf.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 76775,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 21,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/preload-helper.CKhO1dTF.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 16290,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 24,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/app.vYxWfi2g.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1265,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 25,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/vue-router.BS7s7ouX.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 23880,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 48,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/ClientHead.BhQ41lFz.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1410,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 49,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/client.CQ56Exff.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1450,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 50,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.BBx781pU.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1171613,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 51,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Integrations.CxyLDUaq.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 2999,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 60,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/siteModulesConstants.DTCMNMjx.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 3531,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 61,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/googleConsentMode.B1hG4Ws9.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 25845,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 62,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_plugin-vue_export-helper.DlAUqK2U.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 91,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 63,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/runtime-core.esm-bundler.BM0OPItf.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 76775,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 64,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/preload-helper.CKhO1dTF.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 16290,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 66,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/vue-router.BS7s7ouX.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 23880,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 67,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/app.vYxWfi2g.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1265,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 127,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/ClientHead.BhQ41lFz.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1410,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 128,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/client.CQ56Exff.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1450,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 129,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.BBx781pU.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1171613,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 130,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Integrations.CxyLDUaq.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 2999,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 138,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/siteModulesConstants.DTCMNMjx.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 3531,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 139,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/googleConsentMode.B1hG4Ws9.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 25845,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 140,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_plugin-vue_export-helper.DlAUqK2U.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 91,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 141,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/runtime-core.esm-bundler.BM0OPItf.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 76775,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 142,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/preload-helper.CKhO1dTF.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 16290,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 143,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/app.vYxWfi2g.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1265,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 144,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/vue-router.BS7s7ouX.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 23880,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  }
+]

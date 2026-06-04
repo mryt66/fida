@@ -1,0 +1,2136 @@
+[
+  {
+    "idx": 0,
+    "url": "https://www.fidamusic.pl/sklep",
+    "status": 200,
+    "mime": "text/html",
+    "size": 117475,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 1,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-faces?family=Alata:wght@400&family=Rubik:wght@300;400&family=Playfair+Display:wght@400;700&family=Space+Grotesk:wght@400&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 11724,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 2,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_..D9s3Ry08.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 363435,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 3,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/cookieconsent.CpXrOrr9.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 32115,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 4,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.DWsMedUh.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 358193,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 5,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 5038,
+    "category": "images",
+    "saved": "images/005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif"
+  },
+  {
+    "idx": 6,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/traffic.txt",
+    "status": 200,
+    "mime": "text/plain",
+    "size": 0,
+    "category": "text/plain",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 7,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/ClientHead.BhQ41lFz.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1410,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 8,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/client.CQ56Exff.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1450,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 9,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.BBx781pU.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1171613,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 10,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Integrations.CxyLDUaq.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 2999,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 11,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 18980,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 12,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 21880,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 13,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 17580,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 14,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10724,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 15,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 12432,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 16,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 33340,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 17,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/siteModulesConstants.DTCMNMjx.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 3531,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 18,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/googleConsentMode.B1hG4Ws9.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 25845,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 19,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_plugin-vue_export-helper.DlAUqK2U.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 91,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 20,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/runtime-core.esm-bundler.BM0OPItf.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 76775,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 21,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/preload-helper.CKhO1dTF.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 16290,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 22,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 23,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=32,h=32,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 743,
+    "category": "images",
+    "saved": "images/023_6e4624ed8b_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 24,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/app.vYxWfi2g.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1265,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 25,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/vue-router.BS7s7ouX.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 23880,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 26,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=16,h=16,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 421,
+    "category": "images",
+    "saved": "images/026_15d36d1b31_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 27,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 28,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 29,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 200,
+    "mime": "application/json",
+    "size": 557,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 30,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 31,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 32,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 33,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 27372,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 34,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10036,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 35,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 36,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 37,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 38,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 39,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 40,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  },
+  {
+    "idx": 41,
+    "url": "https://www.fidamusic.pl/torba-zakupowa-w-czerwonosci",
+    "status": 200,
+    "mime": "text/html",
+    "size": 124110,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 42,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-faces?family=Alata:wght@400&family=Rubik:wght@300;400&family=Playfair+Display:wght@400;700&family=Space+Grotesk:wght@400&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 11724,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 43,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_..D9s3Ry08.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 363435,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 44,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/cookieconsent.CpXrOrr9.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 32115,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 45,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.DWsMedUh.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 358193,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 46,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 5038,
+    "category": "images",
+    "saved": "images/005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif",
+    "duplicate_of": "005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif"
+  },
+  {
+    "idx": 47,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/traffic.txt",
+    "status": 200,
+    "mime": "text/plain",
+    "size": 0,
+    "category": "text/plain",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 48,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/ClientHead.BhQ41lFz.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1410,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 49,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/client.CQ56Exff.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1450,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 50,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.BBx781pU.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1171613,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 51,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Integrations.CxyLDUaq.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 2999,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 52,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 18980,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 53,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 33340,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 54,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 17580,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 55,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 21880,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 56,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10724,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 57,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 27372,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 58,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10036,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 59,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 12432,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 60,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/siteModulesConstants.DTCMNMjx.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 3531,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 61,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/googleConsentMode.B1hG4Ws9.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 25845,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 62,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_plugin-vue_export-helper.DlAUqK2U.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 91,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 63,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/runtime-core.esm-bundler.BM0OPItf.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 76775,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 64,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/preload-helper.CKhO1dTF.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 16290,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 65,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 66,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/vue-router.BS7s7ouX.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 23880,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 67,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/app.vYxWfi2g.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1265,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 68,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products/torba-zakupowa-w-czerwonosci?field=slug",
+    "status": 200,
+    "mime": "application/json",
+    "size": 4285,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 69,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 200,
+    "mime": "application/json",
+    "size": 557,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 70,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 71,
+    "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 1893277,
+    "category": "images",
+    "saved": "images/071_1320178164_214e3b12-1847-4e11-a8ec-d6431fe32f03.png"
+  },
+  {
+    "idx": 72,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0",
+    "status": 200,
+    "mime": "application/json",
+    "size": 81,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 73,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=scale-down/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 38902,
+    "category": "images",
+    "saved": "images/073_a9cbefb070_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 74,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/checkout",
+    "status": 200,
+    "mime": "application/json",
+    "size": 317,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 75,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/checkout",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 76,
+    "url": "https://www.fidamusic.pl/checkout?cart_id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg&lang=pl&cookieConsentAnalytics=1&cookieConsentMarketing=1&cookieConsentPlatformAnalytics=0",
+    "status": 200,
+    "mime": "text/html",
+    "size": 1547,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 77,
+    "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 16755,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 78,
+    "url": "https://checkout.hostinger.com/app-import-map.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 600,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 79,
+    "url": "https://checkout.hostinger.com/assets/chunk/_plugin-vue_export-helper.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 126933,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 80,
+    "url": "https://checkout.hostinger.com/assets/chunk/VCard.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 1130200,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 81,
+    "url": "https://checkout.hostinger.com/assets/css/VCard.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 405800,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 82,
+    "url": "https://checkout.hostinger.com/assets/css/index.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 390463,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 83,
+    "url": "https://checkout.hostinger.com/assets/js/index.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 1341701,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 84,
+    "url": "https://o324647.ingest.sentry.io/api/6392595/envelope/?sentry_key=474500ee289c4c3a83e8f85bd6efcac1&sentry_version=7&sentry_client=sentry.javascript.vue%2F7.120.4",
+    "status": 200,
+    "mime": "application/json",
+    "size": 2,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 85,
+    "url": "https://checkout.hostinger.com/assets/chunk/CheckoutPage.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 285790,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 86,
+    "url": "https://checkout.hostinger.com/assets/css/CheckoutPage.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 20154,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 87,
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 43136,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 88,
+    "url": "https://checkout.hostinger.com/assets/chunk/pl_PL.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 14892,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 89,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 200,
+    "mime": "application/json",
+    "size": 8241,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 90,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 91,
+    "url": "https://www.fidamusic.pl/favicon.svg",
+    "status": 404,
+    "mime": "text/html",
+    "size": 7031,
+    "category": "text/html",
+    "saved": null
+  },
+  {
+    "idx": 92,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/regions",
+    "status": 200,
+    "mime": "application/json",
+    "size": 316,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 93,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/regions",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 94,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 200,
+    "mime": "application/json",
+    "size": 20,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 95,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg/store",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1123,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 96,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 97,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg/store",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 98,
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 20556,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 99,
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 29392,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 100,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/webp",
+    "size": 7458,
+    "category": "images",
+    "saved": "images/100_75b9f2c1b1_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.webp"
+  },
+  {
+    "idx": 101,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 69498,
+    "category": "images",
+    "saved": "images/101_2d3d03fe27_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 102,
+    "url": "https://checkout.hostinger.com/assets/svg/cards.1780494403986.svg",
+    "status": 200,
+    "mime": "image/svg+xml",
+    "size": 15740,
+    "category": "images/svg",
+    "saved": "images/svg/102_101c9fc3d7_cards.1780494403986.svg"
+  },
+  {
+    "idx": 103,
+    "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/webp",
+    "size": 1243558,
+    "category": "images",
+    "saved": "images/103_371bcf30b7_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.webp"
+  },
+  {
+    "idx": 104,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 200,
+    "mime": "application/json",
+    "size": 557,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 105,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 200,
+    "mime": "application/json",
+    "size": 20,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 106,
+    "url": "https://builder-backend.hostinger.com/v3/sites/m5KL36pk2XCPBlMl/integrations",
+    "status": 200,
+    "mime": "application/json",
+    "size": 45,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 107,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 108,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 109,
+    "url": "https://builder-backend.hostinger.com/v3/sites/m5KL36pk2XCPBlMl/integrations",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 110,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 200,
+    "mime": "application/json",
+    "size": 8923,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 111,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 112,
+    "url": "https://api-ecommerce.hostinger.com/store/shipping-options/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 200,
+    "mime": "application/json",
+    "size": 911,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 113,
+    "url": "https://api-ecommerce.hostinger.com/store/shipping-options/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 114,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg/shipping-methods",
+    "status": 200,
+    "mime": "application/json",
+    "size": 9552,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 115,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg/shipping-methods",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 116,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 404,
+    "mime": "application/json",
+    "size": 104,
+    "category": "application/json",
+    "saved": null
+  },
+  {
+    "idx": 117,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 118,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 119,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 120,
+    "url": "https://www.fidamusic.pl/torba-zakupowa-korale",
+    "status": 200,
+    "mime": "text/html",
+    "size": 123973,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 121,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-faces?family=Alata:wght@400&family=Rubik:wght@300;400&family=Playfair+Display:wght@400;700&family=Space+Grotesk:wght@400&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 11724,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 122,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_..D9s3Ry08.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 363435,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 123,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/cookieconsent.CpXrOrr9.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 32115,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 124,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.DWsMedUh.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 358193,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 125,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=375,fit=crop/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 5038,
+    "category": "images",
+    "saved": "images/005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif",
+    "duplicate_of": "005_277ed1b95f_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png.avif"
+  },
+  {
+    "idx": 126,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/traffic.txt",
+    "status": 200,
+    "mime": "text/plain",
+    "size": 0,
+    "category": "text/plain",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 127,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/ClientHead.BhQ41lFz.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1410,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 128,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/client.CQ56Exff.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1450,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 129,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Page.BBx781pU.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1171613,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 130,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/Integrations.CxyLDUaq.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 2999,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 131,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 18980,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 132,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 33340,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 133,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 17580,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 134,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 21880,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 135,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10724,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 136,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10036,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 137,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 12432,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 138,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/siteModulesConstants.DTCMNMjx.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 3531,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 139,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/googleConsentMode.B1hG4Ws9.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 25845,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 140,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/_plugin-vue_export-helper.DlAUqK2U.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 91,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 141,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/runtime-core.esm-bundler.BM0OPItf.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 76775,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 142,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/preload-helper.CKhO1dTF.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 16290,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 143,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/app.vYxWfi2g.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 1265,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 144,
+    "url": "https://www.fidamusic.pl/_astro-1779472190601/vue-router.BS7s7ouX.js",
+    "status": 200,
+    "mime": "text/javascript",
+    "size": 23880,
+    "category": "text/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 145,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 146,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products/torba-zakupowa-korale?field=slug",
+    "status": 200,
+    "mime": "application/json",
+    "size": 4240,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 147,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 200,
+    "mime": "application/json",
+    "size": 557,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 148,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 149,
+    "url": "https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 1601151,
+    "category": "images",
+    "saved": "images/149_32d839a9a0_02410eab-6df0-41cc-b26b-25d577d8b304.png"
+  },
+  {
+    "idx": 150,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J",
+    "status": 200,
+    "mime": "application/json",
+    "size": 81,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 151,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=768,fit=scale-down/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 25314,
+    "category": "images",
+    "saved": "images/151_bca0c45597_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 152,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/checkout",
+    "status": 200,
+    "mime": "application/json",
+    "size": 317,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 153,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/checkout",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 154,
+    "url": "https://www.fidamusic.pl/checkout?cart_id=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVZQlNUWEI5TkREWEs5UUNHRzY5SiIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNjMsImV4cCI6MTc4MzA5NzA2MywiYXVkIjoiY2FydCJ9.m5DoIBj3w8Jg9IwImESP8bAVmVI7uMuGB3YKVX0Xho0&lang=pl&cookieConsentAnalytics=1&cookieConsentMarketing=1&cookieConsentPlatformAnalytics=0",
+    "status": 200,
+    "mime": "text/html",
+    "size": 1547,
+    "category": "text/html",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 155,
+    "url": "https://fonts.googleapis.com/css?family=Roboto:400,500,700&display=swap",
+    "status": 200,
+    "mime": "text/css",
+    "size": 16755,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 156,
+    "url": "https://checkout.hostinger.com/app-import-map.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 600,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 157,
+    "url": "https://checkout.hostinger.com/assets/chunk/_plugin-vue_export-helper.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 126933,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 158,
+    "url": "https://checkout.hostinger.com/assets/chunk/VCard.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 1130200,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 159,
+    "url": "https://checkout.hostinger.com/assets/css/VCard.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 405800,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 160,
+    "url": "https://checkout.hostinger.com/assets/css/index.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 390463,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 161,
+    "url": "https://checkout.hostinger.com/assets/js/index.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 1341701,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 162,
+    "url": "https://o324647.ingest.sentry.io/api/6392595/envelope/?sentry_key=474500ee289c4c3a83e8f85bd6efcac1&sentry_version=7&sentry_client=sentry.javascript.vue%2F7.120.4",
+    "status": 200,
+    "mime": "application/json",
+    "size": 2,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 163,
+    "url": "https://checkout.hostinger.com/assets/chunk/CheckoutPage.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 285790,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 164,
+    "url": "https://checkout.hostinger.com/assets/css/CheckoutPage.1780494403986.css",
+    "status": 200,
+    "mime": "text/css",
+    "size": 20154,
+    "category": "text/css",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 165,
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 43136,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 166,
+    "url": "https://checkout.hostinger.com/assets/chunk/pl_PL.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 14892,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 167,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVZQlNUWEI5TkREWEs5UUNHRzY5SiIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNjMsImV4cCI6MTc4MzA5NzA2MywiYXVkIjoiY2FydCJ9.m5DoIBj3w8Jg9IwImESP8bAVmVI7uMuGB3YKVX0Xho0",
+    "status": 200,
+    "mime": "application/json",
+    "size": 8177,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 168,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVZQlNUWEI5TkREWEs5UUNHRzY5SiIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNjMsImV4cCI6MTc4MzA5NzA2MywiYXVkIjoiY2FydCJ9.m5DoIBj3w8Jg9IwImESP8bAVmVI7uMuGB3YKVX0Xho0",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 169,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/regions",
+    "status": 200,
+    "mime": "application/json",
+    "size": 316,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 170,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/regions",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 171,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 200,
+    "mime": "application/json",
+    "size": 20,
+    "category": "application/json",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 172,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 173,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVZQlNUWEI5TkREWEs5UUNHRzY5SiIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNjMsImV4cCI6MTc4MzA5NzA2MywiYXVkIjoiY2FydCJ9.m5DoIBj3w8Jg9IwImESP8bAVmVI7uMuGB3YKVX0Xho0/store",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 174,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 175,
+    "url": "https://assets.zyrosite.com/cdn-cgi/image/format=auto,w=192,h=192,fit=crop,f=png/m5KL36pk2XCPBlMl/logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "status": 200,
+    "mime": "image/png",
+    "size": 2424,
+    "category": "images",
+    "saved": "images/022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png",
+    "duplicate_of": "022_c33754a4c3_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png"
+  },
+  {
+    "idx": 176,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": "data/176_8717ee8d5e_collections.json"
+  },
+  {
+    "idx": 177,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?order=ASC&sort_by=price&offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": "data/177_1bcf1e1163_products.json"
+  },
+  {
+    "idx": 178,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": "data/178_ba5d73fdd4_variants.json"
+  },
+  {
+    "idx": 179,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif",
+    "duplicate_of": "037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 180,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif",
+    "duplicate_of": "038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 181,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif",
+    "duplicate_of": "036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 182,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif",
+    "duplicate_of": "032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 183,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif",
+    "duplicate_of": "035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 184,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif",
+    "duplicate_of": "040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  },
+  {
+    "idx": 185,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif",
+    "duplicate_of": "039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 186,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": "data/176_8717ee8d5e_collections.json",
+    "duplicate_of": "176_8717ee8d5e_collections.json"
+  },
+  {
+    "idx": 187,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?order=DESC&sort_by=price&offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": "data/187_6e7b381d67_products.json"
+  },
+  {
+    "idx": 188,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": "data/178_ba5d73fdd4_variants.json",
+    "duplicate_of": "178_ba5d73fdd4_variants.json"
+  },
+  {
+    "idx": 189,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif",
+    "duplicate_of": "039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 190,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif",
+    "duplicate_of": "040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  },
+  {
+    "idx": 191,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif",
+    "duplicate_of": "035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 192,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif",
+    "duplicate_of": "032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 193,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif",
+    "duplicate_of": "037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 194,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif",
+    "duplicate_of": "038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 195,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif",
+    "duplicate_of": "036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 196,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": "data/176_8717ee8d5e_collections.json",
+    "duplicate_of": "176_8717ee8d5e_collections.json"
+  },
+  {
+    "idx": 197,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?order=DESC&sort_by=created_at&offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": "data/197_3e3dd0472f_products.json"
+  },
+  {
+    "idx": 198,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": "data/178_ba5d73fdd4_variants.json",
+    "duplicate_of": "178_ba5d73fdd4_variants.json"
+  },
+  {
+    "idx": 199,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif",
+    "duplicate_of": "032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 200,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif",
+    "duplicate_of": "035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 201,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif",
+    "duplicate_of": "036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 202,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif",
+    "duplicate_of": "037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 203,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif",
+    "duplicate_of": "038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 204,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif",
+    "duplicate_of": "039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 205,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif",
+    "duplicate_of": "040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  },
+  {
+    "idx": 206,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/collections",
+    "status": 200,
+    "mime": "application/json",
+    "size": 28,
+    "category": "application/json",
+    "saved": "data/176_8717ee8d5e_collections.json",
+    "duplicate_of": "176_8717ee8d5e_collections.json"
+  },
+  {
+    "idx": 207,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/products?order=DESC&sort_by=created_at&offset=0&limit=8&to_date=2026-05-22T17%3A50%3A07.157Z",
+    "status": 200,
+    "mime": "application/json",
+    "size": 30450,
+    "category": "application/json",
+    "saved": "data/197_3e3dd0472f_products.json",
+    "duplicate_of": "197_3e3dd0472f_products.json"
+  },
+  {
+    "idx": 208,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/variants?fields=inventory_quantity&product_ids[]=prod_01KRS0ZP3SSF94KS7AWJS0FAC0&product_ids[]=prod_01KRS0PSXV1ZZ03T1NXBG0AN7J&product_ids[]=prod_01KRRZ55RH2SEYEG6GC65XP9GX&product_ids[]=prod_01KRRZ3AJGHJQ3D53G2VZV26KV&product_ids[]=prod_01KRRYXVC0DDD4GRC7GVHQHZ3V&product_ids[]=prod_01KRRYA5YGVVCBQZDNE1737MQ7&product_ids[]=prod_01KRRY84R5QPY51C3S25Q9AM3N",
+    "status": 200,
+    "mime": "application/json",
+    "size": 1153,
+    "category": "application/json",
+    "saved": "data/178_ba5d73fdd4_variants.json",
+    "duplicate_of": "178_ba5d73fdd4_variants.json"
+  },
+  {
+    "idx": 209,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 220789,
+    "category": "images",
+    "saved": "images/032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif",
+    "duplicate_of": "032_43ce1bb75b_214e3b12-1847-4e11-a8ec-d6431fe32f03.png.avif"
+  },
+  {
+    "idx": 210,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 203176,
+    "category": "images",
+    "saved": "images/035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif",
+    "duplicate_of": "035_2d18643c2b_02410eab-6df0-41cc-b26b-25d577d8b304.png.avif"
+  },
+  {
+    "idx": 211,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 27030,
+    "category": "images",
+    "saved": "images/036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif",
+    "duplicate_of": "036_655224209c_ecfc2bb0-5505-46c2-beec-7f48f296ec78.png.avif"
+  },
+  {
+    "idx": 212,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 174047,
+    "category": "images",
+    "saved": "images/037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif",
+    "duplicate_of": "037_6cd9f6821e_1608d7cc-869b-48f8-ad03-29b0ce9406d4.png.avif"
+  },
+  {
+    "idx": 213,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 164163,
+    "category": "images",
+    "saved": "images/038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif",
+    "duplicate_of": "038_0ec4a6052a_8f1ba410-4b70-401d-a688-506fc5d6386e.png.avif"
+  },
+  {
+    "idx": 214,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 151060,
+    "category": "images",
+    "saved": "images/039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif",
+    "duplicate_of": "039_36f3b435b4_150117d1-6c50-4bcc-962d-c2442e927171.png.avif"
+  },
+  {
+    "idx": 215,
+    "url": "https://cdn.zyrosite.com/cdn-cgi/image/format=auto,w=375,h=468,fit=crop,q=100/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png",
+    "status": 200,
+    "mime": "image/avif",
+    "size": 132355,
+    "category": "images",
+    "saved": "images/040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif",
+    "duplicate_of": "040_3869b0f61b_03a7c937-bc60-433d-9461-cc5c60b12e67.png.avif"
+  }
+]

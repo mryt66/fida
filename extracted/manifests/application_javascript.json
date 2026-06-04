@@ -1,0 +1,122 @@
+[
+  {
+    "idx": 78,
+    "url": "https://checkout.hostinger.com/app-import-map.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 600,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 79,
+    "url": "https://checkout.hostinger.com/assets/chunk/_plugin-vue_export-helper.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 126933,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 80,
+    "url": "https://checkout.hostinger.com/assets/chunk/VCard.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 1130200,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 83,
+    "url": "https://checkout.hostinger.com/assets/js/index.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 1341701,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 85,
+    "url": "https://checkout.hostinger.com/assets/chunk/CheckoutPage.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 285790,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 88,
+    "url": "https://checkout.hostinger.com/assets/chunk/pl_PL.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 14892,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 156,
+    "url": "https://checkout.hostinger.com/app-import-map.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 600,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 157,
+    "url": "https://checkout.hostinger.com/assets/chunk/_plugin-vue_export-helper.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 126933,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 158,
+    "url": "https://checkout.hostinger.com/assets/chunk/VCard.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 1130200,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 161,
+    "url": "https://checkout.hostinger.com/assets/js/index.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 1341701,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 163,
+    "url": "https://checkout.hostinger.com/assets/chunk/CheckoutPage.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 285790,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 166,
+    "url": "https://checkout.hostinger.com/assets/chunk/pl_PL.1780494403986.js",
+    "status": 200,
+    "mime": "application/javascript",
+    "size": 14892,
+    "category": "application/javascript",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  }
+]

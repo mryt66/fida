@@ -1,0 +1,32 @@
+[
+  {
+    "idx": 6,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/traffic.txt",
+    "status": 200,
+    "mime": "text/plain",
+    "size": 0,
+    "category": "text/plain",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 47,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/traffic.txt",
+    "status": 200,
+    "mime": "text/plain",
+    "size": 0,
+    "category": "text/plain",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 126,
+    "url": "https://assets.zyrosite.com/m5KL36pk2XCPBlMl/traffic.txt",
+    "status": 200,
+    "mime": "text/plain",
+    "size": 0,
+    "category": "text/plain",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  }
+]

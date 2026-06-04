@@ -1,0 +1,202 @@
+[
+  {
+    "idx": 30,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 70,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 75,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/checkout",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 90,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 93,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/regions",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 96,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 97,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg/store",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 107,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 108,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 109,
+    "url": "https://builder-backend.hostinger.com/v3/sites/m5KL36pk2XCPBlMl/integrations",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 111,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 113,
+    "url": "https://api-ecommerce.hostinger.com/store/shipping-options/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 115,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg/shipping-methods",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 117,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVYUDBTWDhLR0dYSFBIQlNCMEtXOSIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNDEsImV4cCI6MTc4MzA5NzA0MSwiYXVkIjoiY2FydCJ9.2El22umSAEBX1VaDGmFawzCx5JlR_lhujzsYILEtvkg",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 148,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/settings",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 153,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/checkout",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 168,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVZQlNUWEI5TkREWEs5UUNHRzY5SiIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNjMsImV4cCI6MTc4MzA5NzA2MywiYXVkIjoiY2FydCJ9.m5DoIBj3w8Jg9IwImESP8bAVmVI7uMuGB3YKVX0Xho0",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 170,
+    "url": "https://api-ecommerce.hostinger.com/store/store_01KR747ZH98X57JZ69SP34V6G7/regions",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 172,
+    "url": "https://builder-backend.hostinger.com/api/geo",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 173,
+    "url": "https://api-ecommerce.hostinger.com/store/carts/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXJ0X2lkIjoiY2FydF8wMUtUNzVZQlNUWEI5TkREWEs5UUNHRzY5SiIsInN0b3JlX2lkIjoic3RvcmVfMDFLUjc0N1pIOThYNTdKWjY5U1AzNFY2RzciLCJpYXQiOjE3ODA1MDUwNjMsImV4cCI6MTc4MzA5NzA2MywiYXVkIjoiY2FydCJ9.m5DoIBj3w8Jg9IwImESP8bAVmVI7uMuGB3YKVX0Xho0/store",
+    "status": 204,
+    "mime": "x-unknown",
+    "size": 0,
+    "category": "x-unknown",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  }
+]

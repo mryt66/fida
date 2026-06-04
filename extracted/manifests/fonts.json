@@ -1,0 +1,272 @@
+[
+  {
+    "idx": 11,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 18980,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 12,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 21880,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 13,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 17580,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 14,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10724,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 15,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 12432,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 16,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 33340,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 33,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 27372,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 34,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10036,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 52,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 18980,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 53,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 33340,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 54,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 17580,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 55,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 21880,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 56,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10724,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 57,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 27372,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 58,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10036,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 59,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 12432,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 87,
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 43136,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 98,
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMaxKUBGEe.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 20556,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 99,
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3KUBGEe.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 29392,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 131,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 18980,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 132,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Alata:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 33340,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 133,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 17580,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 134,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 21880,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 135,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10724,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 136,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Rubik:wght@300&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 10036,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 137,
+    "url": "https://cdn.zyrosite.com/u1/google-fonts/font-file?family=Playfair+Display:wght@400&subset=latin-ext&display=swap",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 12432,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  },
+  {
+    "idx": 165,
+    "url": "https://fonts.gstatic.com/s/roboto/v51/KFO7CnqEu92Fr1ME7kSn66aGLdTylUAMa3yUBA.woff2",
+    "status": 200,
+    "mime": "font/woff2",
+    "size": 43136,
+    "category": "fonts",
+    "saved": null,
+    "note": "response body not captured in HAR (metadata only)"
+  }
+]

@@ -1,100 +1,524 @@
-<!-- wp:heading --><h2 class="wp-block-heading">Sklep</h2><!-- /wp:heading -->
+<!doctype html>
+<html lang="pl">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Sklep | Fida</title>
+  <link rel="icon" href="https://marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/101_2d3d03fe27_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png" type="image/png">
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Alata&family=Rubik:wght@300;400&family=Playfair+Display:wght@400;700&family=Space+Grotesk:wght@400&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --color-primary-dark: #5025d1;
+      --color-primary: #673de6;
+      --color-danger: #fc5185;
+      --color-danger-dark: #d63163;
+      --color-success: #00b090;
+      --color-dark: #1d1e20;
+      --color-black: #18181a;
+      --color-gray-dark: #36344d;
+      --color-gray: #727586;
+      --color-gray-border: #dadce0;
+      --color-gray-light: #f2f3f6;
+      --color-light: #fff;
+      --color-azure: #357df9;
+      --color-azure-light: #e3ebf9;
+      --color-azure-dark: #265ab2;
+      --color-indigo: #6366F1;
+      --font-primary: 'Alata', 'Times New Roman', sans-serif;
+      --font-secondary: 'Rubik', sans-serif;
+      --font-tertiary: 'Playfair Display', sans-serif;
+    }
+    *, *::before, *::after { box-sizing: border-box; }
+    html, body { margin: 0; padding: 0; }
+    body {
+      font-family: var(--font-secondary);
+      font-weight: 300;
+      font-size: 16px;
+      line-height: 1.8;
+      color: rgb(26, 26, 26);
+      background: #fff;
+      -webkit-font-smoothing: antialiased;
+      -moz-osx-font-smoothing: grayscale;
+    }
+    a { color: inherit; }
+    img { max-width: 100%; display: block; }
+    h1, h2, h3, h4, h5, h6 {
+      font-family: var(--font-primary);
+      font-weight: 400;
+      line-height: 1.3em;
+      margin: 0;
+    }
+    h3 { font-size: 32px; }
+    h6 { font-size: 16px; }
+    p { margin: 0; }
+    button { font-family: inherit; cursor: pointer; border: 0; background: transparent; }
 
-<!-- wp:paragraph --><p>Wszystkie produkty:</p><!-- /wp:paragraph -->
+    /* Sticky top bar */
+    .sticky-bar {
+      position: sticky;
+      top: 0;
+      z-index: 1100;
+      background: #fff;
+    }
+    .sticky-bar__inner {
+      max-width: 1224px;
+      margin: 0 auto;
+      min-height: 40px;
+      display: flex;
+      align-items: center;
+      padding: 0 16px;
+    }
+    .sticky-bar__text {
+      font-family: var(--font-secondary);
+      font-weight: 400;
+      font-size: 12px;
+      color: rgb(26, 26, 26);
+    }
 
-<!-- wp:html -->
-<div style="display:flex;flex-wrap:wrap;gap:16px;max-width:1224px;margin:0 auto">
+    /* Header */
+    .site-header {
+      background: rgb(36, 16, 16);
+      color: #fff;
+      position: sticky;
+      top: 40px;
+      z-index: 1000;
+      font-family: var(--font-secondary);
+    }
+    .site-header__inner {
+      max-width: 1240px;
+      margin: 0 auto;
+      padding: 24px 16px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      gap: 64px;
+    }
+    .site-header__logo img { height: 59px; width: auto; }
+    .site-nav { display: flex; gap: 40px; }
+    .site-nav a {
+      color: #fff;
+      text-decoration: none;
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 1.8;
+      transition: opacity .2s;
+    }
+    .site-nav a:hover { opacity: .8; }
+    .site-nav a.is-active { text-decoration: underline; text-underline-offset: 6px; }
+    .site-social { display: flex; gap: 20px; align-items: center; }
+    .site-social a {
+      color: #fff;
+      display: inline-flex;
+      align-items: center;
+      justify-content: center;
+      transition: color .2s;
+    }
+    .site-social a:hover { color: rgb(58, 58, 58); }
+    .site-social svg { width: 21px; height: 21px; }
+    .site-header__mobile { display: none; }
 
-<div style="flex:0 0 calc(25% - 16px);min-width:200px">
-  <div style="border:1px solid #eee;border-radius:8px;overflow:hidden;transition:box-shadow .2s">
-    <div style="position:relative;background:#f9f9f9">
-      <img src="https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png" alt="Brelok W Kącie Kurz" style="width:100%;display:block;aspect-ratio:3/4;object-fit:cover">
-      <span style="position:absolute;top:8px;left:8px;background:#e3342f;color:#fff;padding:2px 8px;font-size:11px;letter-spacing:1px;text-transform:uppercase">Nowość</span>
-    </div>
-    <div style="padding:12px">
-      <h3 style="font-family:&#39;Playfair Display&#39;,serif;font-size:16px;margin:0 0 4px">Brelok W Kącie Kurz</h3>
-      <p style="font-family:Rubik,sans-serif;font-size:13px;color:#666;margin:0 0 8px">Brelok lub zawieszka do torebki, plecaka lub kluczy.</p>
-      <div style="font-family:Rubik,sans-serif;font-size:18px;font-weight:700">59.00 zł</div>
+    /* Cart link in header */
+    .site-cart {
+      position: relative;
+      color: #fff;
+      display: inline-flex;
+    }
+    .site-cart svg { width: 24px; height: 24px; }
+
+    /* Main product list block */
+    .product-list-section {
+      background: #fff;
+      padding: 100px 16px;
+    }
+    .product-list-section__inner {
+      max-width: 1224px;
+      margin: 0 auto;
+    }
+    .product-list-toolbar {
+      display: flex;
+      justify-content: space-between;
+      align-items: center;
+      flex-wrap: wrap;
+      gap: 16px;
+      margin-bottom: 32px;
+    }
+    .product-list-toolbar__left { display: flex; align-items: center; gap: 24px; flex-wrap: wrap; }
+    .product-list-toolbar__mobile-cats { display: none; }
+    .product-list-sorting { display: flex; align-items: center; gap: 8px; color: #000; }
+    .product-list-sorting__label { font-size: 14px; }
+    .product-list-sorting__select {
+      font-family: inherit;
+      font-size: 14px;
+      padding: 6px 10px;
+      border: 1px solid var(--color-gray-border);
+      background: #fff;
+      color: #000;
+      cursor: pointer;
+    }
+    .product-list-total-count {
+      font-size: 14px;
+      color: rgb(26, 26, 26);
+    }
+    .product-list-category-heading {
+      margin-bottom: 24px;
+      font-size: 32px;
+    }
+    .product-grid {
+      display: grid;
+      grid-template-columns: repeat(4, 1fr);
+      gap: 43px 23px;
+    }
+    .product-card {
+      position: relative;
+      display: block;
+      text-decoration: none;
+      color: inherit;
+      border: 1px solid var(--color-gray-border);
+      background: #fff;
+      transition: border-color .2s, transform .2s;
+    }
+    .product-card:hover { border-color: rgb(26, 26, 26); }
+    .product-card:hover .product-card__image { transform: scale(1.04); }
+    .product-card__media {
+      position: relative;
+      overflow: hidden;
+      background: #fff;
+      aspect-ratio: 1024 / 1280;
+    }
+    .product-card__image {
+      width: 100%;
+      height: 100%;
+      object-fit: cover;
+      transition: transform .4s ease;
+    }
+    .product-card__ribbon {
+      position: absolute;
+      top: 12px;
+      left: 0;
+      background: rgb(29, 30, 32);
+      color: #fff;
+      font-size: 12px;
+      font-weight: 400;
+      padding: 4px 10px;
+      letter-spacing: .03em;
+    }
+    .product-card__body {
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+    }
+    .product-card__title {
+      font-family: var(--font-primary);
+      font-size: 16px;
+      font-weight: 400;
+      line-height: 1.3;
+      margin: 0;
+    }
+    .product-card__price {
+      font-size: 16px;
+      color: rgb(26, 26, 26);
+    }
+    .product-card__action {
+      padding: 0 16px 16px;
+    }
+    .product-card__btn {
+      width: 100%;
+      padding: 14px 36px;
+      font-size: 16px;
+      font-weight: 400;
+      color: #000;
+      background: transparent;
+      border: 1px solid #000;
+      transition: background .2s, color .2s;
+    }
+    .product-card__btn:hover {
+      background: rgb(29, 30, 32);
+      color: #fff;
+      border-color: rgb(29, 30, 32);
+    }
+
+    /* Footer */
+    .site-footer {
+      background: rgb(1, 15, 26);
+      color: #fff;
+      font-family: var(--font-secondary);
+      padding: 45px 16px 40px;
+    }
+    .site-footer__inner {
+      max-width: 1224px;
+      margin: 0 auto;
+      display: grid;
+      grid-template-columns: 1fr 1fr;
+      gap: 24px 64px;
+      align-items: start;
+    }
+    .site-footer__heading {
+      font-family: var(--font-tertiary);
+      font-weight: 400;
+      font-size: 16px;
+      margin-bottom: 16px;
+    }
+    .site-footer__social {
+      display: flex;
+      gap: 32px;
+      align-items: center;
+    }
+    .site-footer__social a {
+      color: #fff;
+      display: inline-flex;
+    }
+    .site-footer__social svg { width: 23px; height: 23px; }
+    .site-footer__links {
+      display: flex;
+      flex-direction: column;
+      gap: 8px;
+      font-family: var(--font-tertiary);
+      font-weight: 400;
+      font-size: 16px;
+    }
+    .site-footer__links a {
+      color: #fff;
+      text-decoration: underline;
+      text-underline-offset: 3px;
+    }
+    .site-footer__bottom {
+      max-width: 1224px;
+      margin: 32px auto 0;
+      padding-top: 16px;
+      font-size: 12px;
+      color: #fff;
+      font-family: var(--font-secondary);
+      font-weight: 300;
+    }
+
+    /* Responsive */
+    @media (max-width: 960px) {
+      .site-header__inner { padding: 6px 16px; gap: 19px; }
+      .site-header__logo img { height: 39px; }
+      .site-nav, .site-header__desktop { display: none; }
+      .site-header__mobile { display: flex; align-items: center; gap: 12px; }
+      .site-header__mobile .site-cart { display: none; }
+      .product-list-section { padding: 56px 16px; }
+      .product-grid { grid-template-columns: repeat(2, 1fr); gap: 24px 16px; }
+      .product-list-toolbar__left { width: 100%; flex-direction: column; align-items: flex-start; gap: 12px; }
+      .product-list-toolbar__mobile-cats { display: block; width: 100%; }
+      .product-list-toolbar__mobile-cats select {
+        width: 100%;
+        padding: 10px 12px;
+        border: 1px solid var(--color-gray-border);
+        font-family: inherit;
+        font-size: 14px;
+        background: #fff;
+      }
+      .product-list-toolbar__sort { width: 100%; }
+      .product-list-toolbar__sort select { width: 100%; }
+      .site-footer__inner { grid-template-columns: 1fr; gap: 24px; }
+    }
+    @media (max-width: 480px) {
+      .product-grid { grid-template-columns: 1fr 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <div class="sticky-bar">
+    <div class="sticky-bar__inner">
+      <p class="sticky-bar__text">Kto to wgl jest Fida?</p>
     </div>
   </div>
-</div>
-<div style="flex:0 0 calc(25% - 16px);min-width:200px">
-  <div style="border:1px solid #eee;border-radius:8px;overflow:hidden;transition:box-shadow .2s">
-    <div style="position:relative;background:#f9f9f9">
-      <img src="https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/8f1ba410-4b70-401d-a688-506fc5d6386e.png" alt="Brelok Miodowe Lata" style="width:100%;display:block;aspect-ratio:3/4;object-fit:cover">
-      <span style="position:absolute;top:8px;left:8px;background:#e3342f;color:#fff;padding:2px 8px;font-size:11px;letter-spacing:1px;text-transform:uppercase">Nowość</span>
+
+  <header class="site-header">
+    <div class="site-header__inner site-header__desktop">
+      <a class="site-header__logo" href="/" aria-label="Fida – strona główna">
+        <img src="https://marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/101_2d3d03fe27_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png" alt="Fida">
+      </a>
+      <nav class="site-nav" aria-label="Główna nawigacja">
+        <a href="/">Strona Główna</a>
+        <a href="/koncerty/">Koncerty</a>
+        <a href="/sklep/" class="is-active" aria-current="page">Sklep</a>
+        <a href="/kontakt/">Kontakt</a>
+      </nav>
+      <div class="site-social" aria-label="Social media">
+        <a href="https://www.facebook.com/ktotofida" target="_blank" rel="noopener" aria-label="Facebook">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M24 12.0726C24 5.44354 18.629 0.0725708 12 0.0725708C5.37097 0.0725708 0 5.44354 0 12.0726C0 18.0619 4.38823 23.0264 10.125 23.9274V15.5414H7.07661V12.0726H10.125V9.4287C10.125 6.42144 11.9153 4.76031 14.6574 4.76031C15.9706 4.76031 17.3439 4.99451 17.3439 4.99451V7.94612H15.8303C14.34 7.94612 13.875 8.87128 13.875 9.82015V12.0726H17.2031L16.6708 15.5414H13.875V23.9274C19.6118 23.0264 24 18.0619 24 12.0726Z"/></svg>
+        </a>
+        <a href="https://www.instagram.com/ktotofida/" target="_blank" rel="noopener" aria-label="Instagram">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.0027 5.84808C8.59743 5.84808 5.85075 8.59477 5.85075 12C5.85075 15.4053 8.59743 18.1519 12.0027 18.1519C15.4079 18.1519 18.1546 15.4053 18.1546 12C18.1546 8.59477 15.4079 5.84808 12.0027 5.84808ZM12.0027 15.9996C9.80212 15.9996 8.00312 14.2059 8.00312 12C8.00312 9.7941 9.79677 8.00046 12.0027 8.00046C14.2086 8.00046 16.0022 9.7941 16.0022 12C16.0022 14.2059 14.2032 15.9996 12.0027 15.9996ZM19.8412 5.59644C19.8412 6.39421 19.1987 7.03135 18.4062 7.03135C17.6085 7.03135 16.9713 6.38885 16.9713 5.59644C16.9713 4.80402 17.6138 4.16153 18.4062 4.16153C19.1987 4.16153 19.8412 4.80402 19.8412 5.59644ZM23.9157 7.05277C23.8247 5.13063 23.3856 3.42801 21.9775 2.02522C20.5747 0.622429 18.8721 0.183388 16.9499 0.0870135C14.9689 -0.0254238 9.03112 -0.0254238 7.05008 0.0870135C5.1333 0.178034 3.43068 0.617075 2.02253 2.01986C0.614389 3.42265 0.180703 5.12527 0.0843279 7.04742C-0.0281093 9.02845 -0.0281093 14.9662 0.0843279 16.9472C0.175349 18.8694 0.614389 20.572 2.02253 21.9748C3.43068 23.3776 5.12794 23.8166 7.05008 23.913C9.03112 24.0254 14.9689 24.0254 16.9499 23.913C18.8721 23.822 20.5747 23.3829 21.9775 21.9748C23.3803 20.572 23.8193 18.8694 23.9157 16.9472C24.0281 14.9662 24.0281 9.03381 23.9157 7.05277ZM21.3564 19.0728C20.9388 20.1223 20.1303 20.9307 19.0755 21.3537C17.496 21.9802 13.7481 21.8356 12.0027 21.8356C10.2572 21.8356 6.50396 21.9748 4.92984 21.3537C3.88042 20.9361 3.07195 20.1276 2.64897 19.0728C2.02253 17.4934 2.16709 13.7455 2.16709 12C2.16709 10.2546 2.02789 6.50129 2.64897 4.92717C3.06659 3.87776 3.87507 3.06928 4.92984 2.6463C6.50931 2.01986 10.2572 2.16443 12.0027 2.16443C13.7481 2.16443 17.5014 2.02522 19.0755 2.6463C20.1249 3.06392 20.9334 3.8724 21.3564 4.92717C21.9828 6.50665 21.8383 10.2546 21.8383 12C21.8383 13.7455 21.9828 17.4987 21.3564 19.0728Z"/></svg>
+        </a>
+        <a href="https://www.youtube.com/@ktotofida" target="_blank" rel="noopener" aria-label="YouTube">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M23.4985 6.20286C23.2225 5.16356 22.4092 4.34503 21.3766 4.06726C19.505 3.5625 12 3.5625 12 3.5625C12 3.5625 4.49503 3.5625 2.62336 4.06726C1.59077 4.34508 0.777523 5.16356 0.501503 6.20286C0 8.08666 0 12.017 0 12.017C0 12.017 0 15.9474 0.501503 17.8312C0.777523 18.8705 1.59077 19.6549 2.62336 19.9327C4.49503 20.4375 12 20.4375 12 20.4375C12 20.4375 19.505 20.4375 21.3766 19.9327C22.4092 19.6549 23.2225 18.8705 23.4985 17.8312C24 15.9474 24 12.017 24 12.017C24 12.017 24 8.08666 23.4985 6.20286ZM9.54544 15.5855V8.44855L15.8181 12.0171L9.54544 15.5855Z"/></svg>
+        </a>
+        <a href="https://open.spotify.com/artist/6bXkQoRLIyuiEdKa1PUyt6" target="_blank" rel="noopener" aria-label="Spotify">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12 0C5.37581 0 0 5.37581 0 12C0 18.6242 5.37581 24 12 24C18.6242 24 24 18.6242 24 12C24 5.37581 18.6242 0 12 0ZM16.8726 17.6565C16.6694 17.6565 16.5435 17.5935 16.3548 17.4823C13.3355 15.6629 9.82258 15.5855 6.35323 16.2968C6.16452 16.3452 5.91774 16.4226 5.77742 16.4226C5.30806 16.4226 5.0129 16.05 5.0129 15.6581C5.0129 15.1597 5.30806 14.9226 5.67097 14.8452C9.63387 13.9694 13.6839 14.0468 17.1387 16.1129C17.4339 16.3016 17.6081 16.471 17.6081 16.9113C17.6081 17.3516 17.2645 17.6565 16.8726 17.6565ZM18.1742 14.4823C17.9226 14.4823 17.7532 14.371 17.579 14.279C14.5548 12.4887 10.0452 11.7677 6.03387 12.8565C5.80161 12.9194 5.67581 12.9823 5.45806 12.9823C4.94032 12.9823 4.51935 12.5613 4.51935 12.0435C4.51935 11.5258 4.77097 11.1823 5.26935 11.0419C6.61452 10.6645 7.98871 10.3839 10.0016 10.3839C13.1419 10.3839 16.1758 11.1629 18.5661 12.5855C18.9581 12.8177 19.1129 13.1177 19.1129 13.5387C19.1081 14.0613 18.7016 14.4823 18.1742 14.4823ZM19.6742 10.7952C19.4226 10.7952 19.2677 10.7323 19.05 10.6065C15.6048 8.55 9.44516 8.05645 5.45806 9.16935C5.28387 9.21774 5.06613 9.29516 4.83387 9.29516C4.19516 9.29516 3.70645 8.79677 3.70645 8.15323C3.70645 7.49516 4.1129 7.12258 4.54839 6.99677C6.25161 6.49839 8.15806 6.26129 10.2339 6.26129C13.7661 6.26129 17.4677 6.99677 20.1726 8.57419C20.55 8.79193 20.7968 9.09194 20.7968 9.66774C20.7968 10.3258 20.2645 10.7952 19.6742 10.7952Z"/></svg>
+        </a>
+        <a href="https://www.tiktok.com/@fida_music" target="_blank" rel="noopener" aria-label="TikTok">
+          <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22.5 9.84202C20.4357 9.84696 18.4221 9.20321 16.7435 8.00171V16.3813C16.7429 17.9333 16.2685 19.4482 15.3838 20.7233C14.499 21.9984 13.246 22.973 11.7923 23.5168C10.3387 24.0606 8.75362 24.1477 7.24914 23.7664C5.74466 23.3851 4.39245 22.5536 3.37333 21.383C2.3542 20.2125 1.71674 18.7587 1.54617 17.2161C1.3756 15.6735 1.68007 14.1156 2.41884 12.7507C3.15762 11.3858 4.2955 10.279 5.68034 9.57823C7.06517 8.87746 8.63095 8.61616 10.1683 8.82927V13.0439C9.46481 12.8227 8.70938 12.8293 8.0099 13.063C7.31041 13.2966 6.70265 13.7453 6.2734 14.345C5.84415 14.9446 5.61536 15.6646 5.6197 16.402C5.62404 17.1395 5.8613 17.8567 6.29759 18.4512C6.73387 19.0458 7.34688 19.4873 8.04906 19.7127C8.75125 19.9381 9.5067 19.9359 10.2075 19.7063C10.9084 19.4768 11.5188 19.0316 11.9515 18.4345C12.3843 17.8374 12.6173 17.1188 12.6173 16.3813V0H16.7435C16.7406 0.348435 16.7698 0.696395 16.8307 1.03948C16.9741 1.80537 17.2722 2.53396 17.7068 3.18068C18.1415 3.8274 18.7035 4.37867 19.3585 4.80075C20.2903 5.41688 21.3829 5.74528 22.5 5.74505V9.84202Z"/></svg>
+        </a>
+      </div>
     </div>
-    <div style="padding:12px">
-      <h3 style="font-family:&#39;Playfair Display&#39;,serif;font-size:16px;margin:0 0 4px">Brelok Miodowe Lata</h3>
-      <p style="font-family:Rubik,sans-serif;font-size:13px;color:#666;margin:0 0 8px">Brelok lub zawieszka do torebki, plecaka lub kluczy.</p>
-      <div style="font-family:Rubik,sans-serif;font-size:18px;font-weight:700">59.00 zł</div>
+    <div class="site-header__inner site-header__mobile">
+      <a class="site-header__logo" href="/" aria-label="Fida – strona główna">
+        <img src="https://marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/101_2d3d03fe27_logo_fidaczerwieni-Yleqr8eqWrTbbxZV.png" alt="Fida">
+      </a>
     </div>
-  </div>
-</div>
-<div style="flex:0 0 calc(25% - 16px);min-width:200px">
-  <div style="border:1px solid #eee;border-radius:8px;overflow:hidden;transition:box-shadow .2s">
-    <div style="position:relative;background:#f9f9f9">
-      <img src="https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png" alt="Brelok Upadek w Tramwaju" style="width:100%;display:block;aspect-ratio:3/4;object-fit:cover">
-      <span style="position:absolute;top:8px;left:8px;background:#e3342f;color:#fff;padding:2px 8px;font-size:11px;letter-spacing:1px;text-transform:uppercase">Nowość</span>
+  </header>
+
+  <main>
+    <section class="product-list-section" aria-label="Lista produktów">
+      <div class="product-list-section__inner">
+        <div class="product-list-toolbar">
+          <div class="product-list-toolbar__left">
+            <div class="product-list-toolbar__mobile-cats">
+              <label for="cats" style="font-size:14px">Przeglądaj:&nbsp;</label>
+              <select id="cats">
+                <option>Wszystkie produkty</option>
+              </select>
+            </div>
+            <div class="product-list-toolbar__sort product-list-sorting">
+              <label class="product-list-sorting__label" for="sort">Sortuj według:</label>
+              <select id="sort" class="product-list-sorting__select">
+                <option value="">Domyślne</option>
+                <option value="price-asc">Cena (od najniższej do najwyższej)</option>
+                <option value="price-desc">Cena (od najwyższej do najniższej)</option>
+                <option value="newest">Najnowsze</option>
+              </select>
+            </div>
+            <p class="product-list-total-count">7 produkty</p>
+          </div>
+        </div>
+
+        <h3 class="product-list-category-heading">Wszystkie produkty</h3>
+
+        <div class="product-grid">
+          <a class="product-card" href="#" aria-label="Torba Zakupowa W Czerwoności">
+            <div class="product-card__media">
+              <span class="product-card__ribbon">Nowość</span>
+              <img class="product-card__image" src="images/torba-czerwona.avif" alt="Torba Zakupowa W Czerwoności" loading="lazy">
+            </div>
+            <div class="product-card__body">
+              <h6 class="product-card__title">Torba Zakupowa W Czerwoności</h6>
+              <p class="product-card__price">69.00zł</p>
+            </div>
+            <div class="product-card__action">
+              <button type="button" class="product-card__btn">Dodaj do koszyka</button>
+            </div>
+          </a>
+
+          <a class="product-card" href="#" aria-label="Torba Zakupowa W Kremie">
+            <div class="product-card__media">
+              <span class="product-card__ribbon">Nowość</span>
+              <img class="product-card__image" src="images/torba-krem.avif" alt="Torba Zakupowa W Kremie" loading="lazy">
+            </div>
+            <div class="product-card__body">
+              <h6 class="product-card__title">Torba Zakupowa W Kremie</h6>
+              <p class="product-card__price">69.00zł</p>
+            </div>
+            <div class="product-card__action">
+              <button type="button" class="product-card__btn">Dodaj do koszyka</button>
+            </div>
+          </a>
+
+          <a class="product-card" href="#" aria-label="Brelok Upadek w Tramwaju">
+            <div class="product-card__media">
+              <span class="product-card__ribbon">Nowość</span>
+              <img class="product-card__image" src="images/brelok-upadek.avif" alt="Brelok Upadek w Tramwaju" loading="lazy">
+            </div>
+            <div class="product-card__body">
+              <h6 class="product-card__title">Brelok Upadek w Tramwaju</h6>
+              <p class="product-card__price">59.00zł</p>
+            </div>
+            <div class="product-card__action">
+              <button type="button" class="product-card__btn">Dodaj do koszyka</button>
+            </div>
+          </a>
+
+          <a class="product-card" href="#" aria-label="Brelok W Kącie Kurz">
+            <div class="product-card__media">
+              <span class="product-card__ribbon">Nowość</span>
+              <img class="product-card__image" src="images/brelok-kacie.avif" alt="Brelok W Kącie Kurz" loading="lazy">
+            </div>
+            <div class="product-card__body">
+              <h6 class="product-card__title">Brelok W Kącie Kurz</h6>
+              <p class="product-card__price">59.00zł</p>
+            </div>
+            <div class="product-card__action">
+              <button type="button" class="product-card__btn">Dodaj do koszyka</button>
+            </div>
+          </a>
+
+          <a class="product-card" href="#" aria-label="Brelok Miodowe Lata">
+            <div class="product-card__media">
+              <span class="product-card__ribbon">Nowość</span>
+              <img class="product-card__image" src="images/brelok-miodowe.avif" alt="Brelok Miodowe Lata" loading="lazy">
+            </div>
+            <div class="product-card__body">
+              <h6 class="product-card__title">Brelok Miodowe Lata</h6>
+              <p class="product-card__price">59.00zł</p>
+            </div>
+            <div class="product-card__action">
+              <button type="button" class="product-card__btn">Dodaj do koszyka</button>
+            </div>
+          </a>
+
+          <a class="product-card" href="#" aria-label="Czarna Koszulka Idealny Samochód">
+            <div class="product-card__media">
+              <span class="product-card__ribbon">Nowość</span>
+              <img class="product-card__image" src="images/koszulka-czarna.avif" alt="Czarna Koszulka Idealny Samochód" loading="lazy">
+            </div>
+            <div class="product-card__body">
+              <h6 class="product-card__title">Czarna Koszulka Idealny Samochód</h6>
+              <p class="product-card__price">99.00zł</p>
+            </div>
+            <div class="product-card__action">
+              <button type="button" class="product-card__btn">Dodaj do koszyka</button>
+            </div>
+          </a>
+
+          <a class="product-card" href="#" aria-label="Biała Koszulka Idealny Samochód">
+            <div class="product-card__media">
+              <span class="product-card__ribbon">Nowość</span>
+              <img class="product-card__image" src="images/koszulka-biala.avif" alt="Biała Koszulka Idealny Samochód" loading="lazy">
+            </div>
+            <div class="product-card__body">
+              <h6 class="product-card__title">Biała Koszulka Idealny Samochód</h6>
+              <p class="product-card__price">99.00zł</p>
+            </div>
+            <div class="product-card__action">
+              <button type="button" class="product-card__btn">Dodaj do koszyka</button>
+            </div>
+          </a>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <div class="site-footer__inner">
+      <div>
+        <p class="site-footer__heading">Upewnij się, że to prawda:</p>
+        <div class="site-footer__social" aria-label="Social media w stopce">
+          <a href="https://www.facebook.com/ktotofida" target="_blank" rel="noopener" aria-label="Facebook">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M24 12.0726C24 5.44354 18.629 0.0725708 12 0.0725708C5.37097 0.0725708 0 5.44354 0 12.0726C0 18.0619 4.38823 23.0264 10.125 23.9274V15.5414H7.07661V12.0726H10.125V9.4287C10.125 6.42144 11.9153 4.76031 14.6574 4.76031C15.9706 4.76031 17.3439 4.99451 17.3439 4.99451V7.94612H15.8303C14.34 7.94612 13.875 8.87128 13.875 9.82015V12.0726H17.2031L16.6708 15.5414H13.875V23.9274C19.6118 23.0264 24 18.0619 24 12.0726Z"/></svg>
+          </a>
+          <a href="https://www.instagram.com/ktotofida/" target="_blank" rel="noopener" aria-label="Instagram">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M12.0027 5.84808C8.59743 5.84808 5.85075 8.59477 5.85075 12C5.85075 15.4053 8.59743 18.1519 12.0027 18.1519C15.4079 18.1519 18.1546 15.4053 18.1546 12C18.1546 8.59477 15.4079 5.84808 12.0027 5.84808ZM12.0027 15.9996C9.80212 15.9996 8.00312 14.2059 8.00312 12C8.00312 9.7941 9.79677 8.00046 12.0027 8.00046C14.2086 8.00046 16.0022 9.7941 16.0022 12C16.0022 14.2059 14.2032 15.9996 12.0027 15.9996ZM19.8412 5.59644C19.8412 6.39421 19.1987 7.03135 18.4062 7.03135C17.6085 7.03135 16.9713 6.38885 16.9713 5.59644C16.9713 4.80402 17.6138 4.16153 18.4062 4.16153C19.1987 4.16153 19.8412 4.80402 19.8412 5.59644ZM23.9157 7.05277C23.8247 5.13063 23.3856 3.42801 21.9775 2.02522C20.5747 0.622429 18.8721 0.183388 16.9499 0.0870135C14.9689 -0.0254238 9.03112 -0.0254238 7.05008 0.0870135C5.1333 0.178034 3.43068 0.617075 2.02253 2.01986C0.614389 3.42265 0.180703 5.12527 0.0843279 7.04742C-0.0281093 9.02845 -0.0281093 14.9662 0.0843279 16.9472C0.175349 18.8694 0.614389 20.572 2.02253 21.9748C3.43068 23.3776 5.12794 23.8166 7.05008 23.913C9.03112 24.0254 14.9689 24.0254 16.9499 23.913C18.8721 23.822 20.5747 23.3829 21.9775 21.9748C23.3803 20.572 23.8193 18.8694 23.9157 16.9472C24.0281 14.9662 24.0281 9.03381 23.9157 7.05277ZM21.3564 19.0728C20.9388 20.1223 20.1303 20.9307 19.0755 21.3537C17.496 21.9802 13.7481 21.8356 12.0027 21.8356C10.2572 21.8356 6.50396 21.9748 4.92984 21.3537C3.88042 20.9361 3.07195 20.1276 2.64897 19.0728C2.02253 17.4934 2.16709 13.7455 2.16709 12C2.16709 10.2546 2.02789 6.50129 2.64897 4.92717C3.06659 3.87776 3.87507 3.06928 4.92984 2.6463C6.50931 2.01986 10.2572 2.16443 12.0027 2.16443C13.7481 2.16443 17.5014 2.02522 19.0755 2.6463C20.1249 3.06392 20.9334 3.8724 21.3564 4.92717C21.9828 6.50665 21.8383 10.2546 21.8383 12C21.8383 13.7455 21.9828 17.4987 21.3564 19.0728Z"/></svg>
+          </a>
+          <a href="https://www.tiktok.com/@fida_music" target="_blank" rel="noopener" aria-label="TikTok">
+            <svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M22.5 9.84202C20.4357 9.84696 18.4221 9.20321 16.7435 8.00171V16.3813C16.7429 17.9333 16.2685 19.4482 15.3838 20.7233C14.499 21.9984 13.246 22.973 11.7923 23.5168C10.3387 24.0606 8.75362 24.1477 7.24914 23.7664C5.74466 23.3851 4.39245 22.5536 3.37333 21.383C2.3542 20.2125 1.71674 18.7587 1.54617 17.2161C1.3756 15.6735 1.68007 14.1156 2.41884 12.7507C3.15762 11.3858 4.2955 10.279 5.68034 9.57823C7.06517 8.87746 8.63095 8.61616 10.1683 8.82927V13.0439C9.46481 12.8227 8.70938 12.8293 8.0099 13.063C7.31041 13.2966 6.70265 13.7453 6.2734 14.345C5.84415 14.9446 5.61536 15.6646 5.6197 16.402C5.62404 17.1395 5.8613 17.8567 6.29759 18.4512C6.73387 19.0458 7.34688 19.4873 8.04906 19.7127C8.75125 19.9381 9.5067 19.9359 10.2075 19.7063C10.9084 19.4768 11.5188 19.0316 11.9515 18.4345C12.3843 17.8374 12.6173 17.1188 12.6173 16.3813V0H16.7435C16.7406 0.348435 16.7698 0.696395 16.8307 1.03948C16.9741 1.80537 17.2722 2.53396 17.7068 3.18068C18.1415 3.8274 18.7035 4.37867 19.3585 4.80075C20.2903 5.41688 21.3829 5.74528 22.5 5.74505V9.84202Z"/></svg>
+          </a>
+        </div>
+      </div>
+      <nav class="site-footer__links" aria-label="Dokumenty">
+        <a href="/regulamin-sklepu/">Regulamin Sklepu</a>
+        <a href="/polityka-prywatnosci/">Polityka Prywatności</a>
+        <a href="/polityka-zwrotow/">Polityka Zwrotów</a>
+      </nav>
     </div>
-    <div style="padding:12px">
-      <h3 style="font-family:&#39;Playfair Display&#39;,serif;font-size:16px;margin:0 0 4px">Brelok Upadek w Tramwaju</h3>
-      <p style="font-family:Rubik,sans-serif;font-size:13px;color:#666;margin:0 0 8px">Brelok lub zawieszka do torebki, plecaka lub kluczy.</p>
-      <div style="font-family:Rubik,sans-serif;font-size:18px;font-weight:700">59.00 zł</div>
+    <div class="site-footer__bottom">
+      © 2026. All Rights Reserved.
     </div>
-  </div>
-</div>
-<div style="flex:0 0 calc(25% - 16px);min-width:200px">
-  <div style="border:1px solid #eee;border-radius:8px;overflow:hidden;transition:box-shadow .2s">
-    <div style="position:relative;background:#f9f9f9">
-      <img src="https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/214e3b12-1847-4e11-a8ec-d6431fe32f03.png" alt="Torba Zakupowa W Czerwoności" style="width:100%;display:block;aspect-ratio:3/4;object-fit:cover">
-      <span style="position:absolute;top:8px;left:8px;background:#e3342f;color:#fff;padding:2px 8px;font-size:11px;letter-spacing:1px;text-transform:uppercase">Nowość</span>
-    </div>
-    <div style="padding:12px">
-      <h3 style="font-family:&#39;Playfair Display&#39;,serif;font-size:16px;margin:0 0 4px">Torba Zakupowa W Czerwoności</h3>
-      <p style="font-family:Rubik,sans-serif;font-size:13px;color:#666;margin:0 0 8px"></p>
-      <div style="font-family:Rubik,sans-serif;font-size:18px;font-weight:700">69.00 zł</div>
-    </div>
-  </div>
-</div>
-<div style="flex:0 0 calc(25% - 16px);min-width:200px">
-  <div style="border:1px solid #eee;border-radius:8px;overflow:hidden;transition:box-shadow .2s">
-    <div style="position:relative;background:#f9f9f9">
-      <img src="https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/02410eab-6df0-41cc-b26b-25d577d8b304.png" alt="Torba Zakupowa W Kremie" style="width:100%;display:block;aspect-ratio:3/4;object-fit:cover">
-      <span style="position:absolute;top:8px;left:8px;background:#e3342f;color:#fff;padding:2px 8px;font-size:11px;letter-spacing:1px;text-transform:uppercase">Nowość</span>
-    </div>
-    <div style="padding:12px">
-      <h3 style="font-family:&#39;Playfair Display&#39;,serif;font-size:16px;margin:0 0 4px">Torba Zakupowa W Kremie</h3>
-      <p style="font-family:Rubik,sans-serif;font-size:13px;color:#666;margin:0 0 8px"></p>
-      <div style="font-family:Rubik,sans-serif;font-size:18px;font-weight:700">69.00 zł</div>
-    </div>
-  </div>
-</div>
-<div style="flex:0 0 calc(25% - 16px);min-width:200px">
-  <div style="border:1px solid #eee;border-radius:8px;overflow:hidden;transition:box-shadow .2s">
-    <div style="position:relative;background:#f9f9f9">
-      <img src="https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/03a7c937-bc60-433d-9461-cc5c60b12e67.png" alt="Biała Koszulka Idealny Samochód" style="width:100%;display:block;aspect-ratio:3/4;object-fit:cover">
-      <span style="position:absolute;top:8px;left:8px;background:#e3342f;color:#fff;padding:2px 8px;font-size:11px;letter-spacing:1px;text-transform:uppercase">Nowość</span>
-    </div>
-    <div style="padding:12px">
-      <h3 style="font-family:&#39;Playfair Display&#39;,serif;font-size:16px;margin:0 0 4px">Biała Koszulka Idealny Samochód</h3>
-      <p style="font-family:Rubik,sans-serif;font-size:13px;color:#666;margin:0 0 8px">Biała koszulka z nadrukiem "Idealny samochód nie istn.."</p>
-      <div style="font-family:Rubik,sans-serif;font-size:18px;font-weight:700">99.00 zł</div>
-    </div>
-  </div>
-</div>
-<div style="flex:0 0 calc(25% - 16px);min-width:200px">
-  <div style="border:1px solid #eee;border-radius:8px;overflow:hidden;transition:box-shadow .2s">
-    <div style="position:relative;background:#f9f9f9">
-      <img src="https://cdn.zyrosite.com/cdn-ecommerce/store_01KR747ZH98X57JZ69SP34V6G7/assets/150117d1-6c50-4bcc-962d-c2442e927171.png" alt="Czarna Koszulka Idealny Samochód" style="width:100%;display:block;aspect-ratio:3/4;object-fit:cover">
-      <span style="position:absolute;top:8px;left:8px;background:#e3342f;color:#fff;padding:2px 8px;font-size:11px;letter-spacing:1px;text-transform:uppercase">Nowość</span>
-    </div>
-    <div style="padding:12px">
-      <h3 style="font-family:&#39;Playfair Display&#39;,serif;font-size:16px;margin:0 0 4px">Czarna Koszulka Idealny Samochód</h3>
-      <p style="font-family:Rubik,sans-serif;font-size:13px;color:#666;margin:0 0 8px">Czarna koszulka z nadrukiem "Idealny samochód nie istn.."</p>
-      <div style="font-family:Rubik,sans-serif;font-size:18px;font-weight:700">99.00 zł</div>
-    </div>
-  </div>
-</div>
-</div>
-<!-- /wp:html -->
+  </footer>
+</body>
+</html>

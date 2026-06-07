@@ -1,0 +1,511 @@
+<!--
+  FIDA SHOP – Elementor HTML Widget
+  Wklej w: Elementor → HTML Widget
+  Wymaga aktywnego WooCommerce (data-wp-* używa @wordpress/interactivity ładowanego przez WC)
+
+  Użycie:
+  1. Usuń istniejący WC Product Collection block ze strony Sklep
+  2. Dodaj widget "HTML" w Elementorze w tym samym miejscu
+  3. Wklej całość tego pliku
+  4. Sekcja Elementora: Layout → Content Width = Full Width
+-->
+<style>
+@import url('https://fonts.googleapis.com/css2?family=Alata&family=Rubik:wght@300;400&display=swap');
+
+.fida-shop {
+  max-width: 1224px;
+  width: 100%;
+  margin: 0 auto;
+  padding: 100px 16px;
+  background: #fff;
+  font-family: 'Rubik', sans-serif;
+  color: rgb(26, 26, 26);
+  box-sizing: border-box;
+  overflow: hidden;
+}
+.fida-shop *, .fida-shop *::before, .fida-shop *::after { box-sizing: border-box; }
+
+/* Toolbar: H3 + ilość */
+.fida-shop-toolbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 16px;
+  margin: 0 0 32px;
+}
+.fida-shop-heading {
+  font-family: 'Alata', 'Times New Roman', sans-serif;
+  font-size: 32px;
+  font-weight: 400;
+  line-height: 1.3;
+  margin: 0;
+  color: rgb(26, 26, 26);
+  word-break: normal;
+}
+.fida-shop-count {
+  font-family: 'Rubik', sans-serif;
+  font-size: 14px;
+  font-weight: 400;
+  margin: 0;
+  color: rgb(26, 26, 26);
+}
+
+/* Siatka 4 kolumny */
+.fida-shop .wc-block-product-template {
+  display: grid !important;
+  grid-template-columns: repeat(4, minmax(0, 1fr)) !important;
+  gap: 43px 23px !important;
+  list-style: none !important;
+  padding: 0 !important;
+  margin: 0 !important;
+}
+
+/* Karta */
+.fida-shop .wc-block-product {
+  background: #fff !important;
+  border: 1px solid #dadce0 !important;
+  border-radius: 0 !important;
+  transition: border-color .2s ease !important;
+  overflow: hidden !important;
+  display: flex !important;
+  flex-direction: column !important;
+  float: none !important;
+  clear: none !important;
+  width: auto !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  min-width: 0 !important;
+}
+.fida-shop .wc-block-product.first,
+.fida-shop .wc-block-product.last {
+  width: auto !important;
+  margin: 0 !important;
+  float: none !important;
+}
+.fida-shop .wc-block-product:hover { border-color: rgb(26, 26, 26) !important; }
+
+/* Obrazek: aspect ratio 4:5, cover, zoom na hover */
+.fida-shop .wc-block-components-product-image {
+  position: relative !important;
+  aspect-ratio: 1024 / 1280 !important;
+  overflow: hidden !important;
+  background: #fff !important;
+  margin: 0 !important;
+  padding: 0 !important;
+  line-height: 0 !important;
+}
+.fida-shop .wc-block-components-product-image__inner-container { display: none !important; }
+.fida-shop .wc-block-components-product-image > a {
+  display: block !important;
+  position: absolute !important;
+  inset: 0 !important;
+  width: 100% !important;
+  height: 100% !important;
+  line-height: 0 !important;
+  text-decoration: none !important;
+}
+.fida-shop .wc-block-components-product-image img {
+  width: 100% !important;
+  height: 100% !important;
+  max-width: none !important;
+  max-height: none !important;
+  object-fit: cover !important;
+  transition: transform .4s ease !important;
+  display: block !important;
+}
+.fida-shop .wc-block-product:hover .wc-block-components-product-image img { transform: scale(1.04) !important; }
+
+/* Ribbon "Nowość" */
+.fida-shop .wc-block-components-product-image::before {
+  content: "Nowość";
+  position: absolute;
+  top: 12px;
+  left: 0;
+  z-index: 3;
+  background: rgb(29, 30, 32);
+  color: #fff;
+  font-family: 'Rubik', sans-serif;
+  font-size: 12px;
+  font-weight: 400;
+  padding: 4px 10px;
+  letter-spacing: .03em;
+  line-height: 1.2;
+}
+
+/* Tytuł: Alata, 14px, nie łamie słów */
+.fida-shop .wc-block-product .wp-block-post-title,
+.fida-shop .wc-block-product h2.wp-block-post-title,
+.fida-shop .wc-block-product .wp-block-post-title.has-medium-font-size,
+.fida-shop .wc-block-product .wp-block-post-title a {
+  font-family: 'Alata', 'Times New Roman', sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  line-height: 1.3 !important;
+  margin: 0 !important;
+  padding: 16px 16px 8px !important;
+  color: rgb(26, 26, 26) !important;
+  text-align: left !important;
+  word-break: normal !important;
+  overflow-wrap: break-word !important;
+  hyphens: none !important;
+  -webkit-hyphens: none !important;
+  text-decoration: none !important;
+  letter-spacing: 0 !important;
+  text-transform: none !important;
+}
+
+/* Cena: 99.00zł */
+.fida-shop .wc-block-product .wp-block-woocommerce-product-price {
+  padding: 0 16px 8px !important;
+  text-align: left !important;
+  font-size: 14px !important;
+  margin: 0 !important;
+  line-height: 1.5 !important;
+}
+.fida-shop .wc-block-product .wc-block-components-product-price,
+.fida-shop .wc-block-product .woocommerce-Price-amount,
+.fida-shop .wc-block-product .woocommerce-Price-amount bdi {
+  font-family: 'Rubik', sans-serif !important;
+  font-size: 14px !important;
+  font-weight: 400 !important;
+  color: rgb(26, 26, 26) !important;
+  text-align: left !important;
+  line-height: 1.5 !important;
+}
+.fida-shop .wc-block-product .woocommerce-Price-amount bdi {
+  display: inline-flex !important;
+  flex-direction: row-reverse !important;
+  align-items: baseline !important;
+}
+.fida-shop .wc-block-product .woocommerce-Price-currencySymbol {
+  margin: 0 !important;
+  font-weight: 400 !important;
+}
+
+/* Przycisk: 12px font, 10px padding, nie łamie */
+.fida-shop .wc-block-product .wp-block-woocommerce-product-button {
+  padding: 0 16px 16px !important;
+  text-align: left !important;
+  margin: 0 !important;
+  display: block !important;
+  margin-top: auto !important;
+}
+.fida-shop .wc-block-product .wc-block-components-product-button { display: block !important; width: 100% !important; }
+.fida-shop .wc-block-product .wc-block-components-product-button__button,
+.fida-shop .wc-block-product a.wc-block-components-product-button__button,
+.fida-shop .wc-block-product button.wc-block-components-product-button__button {
+  display: block !important;
+  width: 100% !important;
+  box-sizing: border-box !important;
+  padding: 10px 6px !important;
+  font-family: 'Rubik', sans-serif !important;
+  font-size: 12px !important;
+  font-weight: 400 !important;
+  line-height: normal !important;
+  color: #000 !important;
+  background: transparent !important;
+  background-color: transparent !important;
+  border: 1px solid #000 !important;
+  border-radius: 0 !important;
+  text-align: center !important;
+  text-decoration: none !important;
+  letter-spacing: 0 !important;
+  text-transform: none !important;
+  transition: background .2s ease, color .2s ease, border-color .2s ease !important;
+  cursor: pointer !important;
+  margin: 0 !important;
+  min-height: auto !important;
+  height: auto !important;
+  white-space: nowrap !important;
+  overflow: hidden !important;
+  text-overflow: ellipsis !important;
+}
+.fida-shop .wc-block-product .wc-block-components-product-button__button:hover,
+.fida-shop .wc-block-product a.wc-block-components-product-button__button:hover,
+.fida-shop .wc-block-product button.wc-block-components-product-button__button:hover {
+  background: rgb(29, 30, 32) !important;
+  background-color: rgb(29, 30, 32) !important;
+  color: #fff !important;
+  border-color: rgb(29, 30, 32) !important;
+}
+.fida-shop .added_to_cart {
+  display: inline-block;
+  margin-top: 6px;
+  font-size: 12px;
+  color: #000;
+}
+
+/* Notices (górny komunikat WC) – schowany, psuje layout */
+.fida-shop .wc-block-components-notices { display: none !important; }
+
+/* Mobile */
+@media (max-width: 960px) {
+  .fida-shop { padding: 56px 16px !important; }
+  .fida-shop .wc-block-product-template {
+    grid-template-columns: repeat(2, minmax(0, 1fr)) !important;
+    gap: 24px 16px !important;
+  }
+  .fida-shop-toolbar { width: 100%; flex-direction: column; align-items: flex-start; gap: 8px; }
+  .fida-shop-count { width: 100%; }
+  .fida-shop-heading { font-size: 26px !important; }
+}
+@media (max-width: 480px) {
+  .fida-shop-heading { font-size: 22px !important; }
+  .fida-shop .wc-block-product .wc-block-components-product-button__button {
+    padding: 9px 4px !important;
+    font-size: 11px !important;
+  }
+  .fida-shop .wc-block-product .wp-block-post-title { font-size: 12px !important; }
+}
+</style>
+
+<div class="fida-shop">
+
+  <div class="fida-shop-toolbar">
+    <h3 class="fida-shop-heading">Wszystkie produkty</h3>
+    <p class="fida-shop-count">7 produkty</p>
+  </div>
+
+  <div data-wp-interactive="woocommerce/product-collection"
+       data-wp-router-region="wc-product-collection-40"
+       data-block-name="woocommerce/product-collection"
+       data-display-layout="{&quot;type&quot;:&quot;flex&quot;,&quot;columns&quot;:4,&quot;shrinkColumns&quot;:true}"
+       data-query-id="40"
+       data-tag-name="div"
+       class="wp-block-woocommerce-product-collection is-layout-flow wp-block-woocommerce-product-collection-is-layout-flow">
+
+    <ul data-block-name="woocommerce/product-template"
+        class="wc-block-product-template__responsive columns-4 wc-block-product-template wp-block-woocommerce-product-template is-layout-flow wp-block-woocommerce-product-template-is-layout-flow"
+        data-wp-on--scroll="actions.watchScroll">
+
+      <!-- Produkt 1: Biała Koszulka (variable) -->
+      <li class="wc-block-product post-67 product type-product status-publish has-post-thumbnail product_cat-koszulki product_tag-nowosc first instock shipping-taxable purchasable product-type-variable"
+          data-wp-interactive="woocommerce/product-collection"
+          data-wp-key="product-item-67">
+        <div data-block-name="woocommerce/product-image" data-show-sale-badge="false" class="wc-block-components-product-image wc-block-grid__product-image wc-block-components-product-image--aspect-ratio-auto wp-block-woocommerce-product-image">
+          <a href="https://marzenaryt1-aldzr.wpcomstaging.com/product/biala-koszulka-idealny-samochod/" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <img loading="lazy" decoding="async" width="300" height="300" src="https://i0.wp.com/marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/03a7c937-bc60-433d-9461-cc5c60b12e67.png?resize=300%2C300&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Biała Koszulka Idealny Samochód" data-testid="product-image" data-image-id="79" style="object-fit:cover;">
+          </a>
+        </div>
+        <h2 style="line-height:1.4;margin-bottom:0.75rem;margin-top:0" class="wp-block-post-title has-medium-font-size">
+          <a data-wp-on--click="woocommerce/product-collection::actions.viewProduct" href="https://marzenaryt1-aldzr.wpcomstaging.com/product/biala-koszulka-idealny-samochod/" target="_self">Biała Koszulka Idealny Samochód</a>
+        </h2>
+        <div data-block-name="woocommerce/product-price" data-font-size="small" data-text-align="center" class="has-font-size has-small-font-size has-text-align-center wp-block-woocommerce-product-price">
+          <div class="wc-block-components-product-price wc-block-grid__product-price">
+            <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">zł</span>99.00</bdi></span>
+          </div>
+        </div>
+        <div data-block-name="woocommerce/product-button" data-font-size="small" data-text-align="center" class="wp-block-button wc-block-components-product-button align-center wp-block-woocommerce-product-button has-small-font-size"
+             data-wp-context="{&quot;quantityToAdd&quot;:1,&quot;addToCartText&quot;:&quot;Dodaj do koszyka&quot;,&quot;tempQuantity&quot;:0,&quot;animationStatus&quot;:&quot;IDLE&quot;,&quot;inTheCartText&quot;:&quot;### w koszyku&quot;,&quot;noticeId&quot;:&quot;&quot;,&quot;hasPressedButton&quot;:false}">
+          <a class="wp-block-button__link wp-element-button wc-block-components-product-button__button add_to_cart_button product_type_variable has-font-size has-small-font-size has-text-align-center wc-interactive"
+             href="https://marzenaryt1-aldzr.wpcomstaging.com/product/biala-koszulka-idealny-samochod/" rel="nofollow" data-product_id="67" data-product_sku="FIDA-KOSZ-BIALA"
+             aria-label="Dodaj do koszyka: „Biała Koszulka Idealny Samochód”" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <span>Dodaj do koszyka</span>
+          </a>
+        </div>
+      </li>
+
+      <!-- Produkt 2: Brelok Miodowe Lata (simple) -->
+      <li class="wc-block-product post-72 product type-product status-publish has-post-thumbnail product_cat-breloki product_tag-nowosc instock shipping-taxable purchasable product-type-simple"
+          data-wp-interactive="woocommerce/product-collection"
+          data-wp-key="product-item-72">
+        <div data-block-name="woocommerce/product-image" data-show-sale-badge="false" class="wc-block-components-product-image wc-block-grid__product-image wc-block-components-product-image--aspect-ratio-auto wp-block-woocommerce-product-image">
+          <a href="https://marzenaryt1-aldzr.wpcomstaging.com/product/brelok-miodowe-lata/" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <img loading="lazy" decoding="async" width="300" height="300" src="https://i0.wp.com/marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/8f1ba410-4b70-401d-a688-506fc5d6386e.png?resize=300%2C300&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Brelok Miodowe Lata" data-testid="product-image" data-image-id="71" style="object-fit:cover;">
+          </a>
+        </div>
+        <h2 style="line-height:1.4;margin-bottom:0.75rem;margin-top:0" class="wp-block-post-title has-medium-font-size">
+          <a data-wp-on--click="woocommerce/product-collection::actions.viewProduct" href="https://marzenaryt1-aldzr.wpcomstaging.com/product/brelok-miodowe-lata/" target="_self">Brelok Miodowe Lata</a>
+        </h2>
+        <div data-block-name="woocommerce/product-price" data-font-size="small" data-text-align="center" class="has-font-size has-small-font-size has-text-align-center wp-block-woocommerce-product-price">
+          <div class="wc-block-components-product-price wc-block-grid__product-price">
+            <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">zł</span>59.00</bdi></span>
+          </div>
+        </div>
+        <div data-block-name="woocommerce/product-button" data-font-size="small" data-text-align="center" class="wp-block-button wc-block-components-product-button align-center wp-block-woocommerce-product-button has-small-font-size"
+             data-wp-interactive="woocommerce/product-button"
+             data-wp-context="{&quot;quantityToAdd&quot;:1,&quot;addToCartText&quot;:&quot;Dodaj do koszyka&quot;,&quot;tempQuantity&quot;:0,&quot;animationStatus&quot;:&quot;IDLE&quot;,&quot;inTheCartText&quot;:&quot;### w koszyku&quot;,&quot;noticeId&quot;:&quot;&quot;,&quot;hasPressedButton&quot;:false}">
+          <button class="wp-block-button__link wp-element-button wc-block-components-product-button__button add_to_cart_button ajax_add_to_cart product_type_simple has-font-size has-small-font-size has-text-align-center wc-interactive"
+                  type="button" data-product_id="72" data-product_sku="FIDA-BRL-MIOD"
+                  aria-label="Dodaj do koszyka: „Brelok Miodowe Lata”" data-wp-on--click="actions.addCartItem">
+            <span data-wp-text="state.addToCartText">Dodaj do koszyka</span>
+          </button>
+          <span hidden data-wp-bind--hidden="!state.displayViewCart">
+            <a href="https://marzenaryt1-aldzr.wpcomstaging.com/koszyk/" class="added_to_cart wc_forward" title="Zobacz koszyk">Zobacz koszyk</a>
+          </span>
+        </div>
+      </li>
+
+      <!-- Produkt 3: Brelok Upadek w Tramwaju (simple) -->
+      <li class="wc-block-product post-74 product type-product status-publish has-post-thumbnail product_cat-breloki product_tag-nowosc instock shipping-taxable purchasable product-type-simple"
+          data-wp-interactive="woocommerce/product-collection"
+          data-wp-key="product-item-74">
+        <div data-block-name="woocommerce/product-image" data-show-sale-badge="false" class="wc-block-components-product-image wc-block-grid__product-image wc-block-components-product-image--aspect-ratio-auto wp-block-woocommerce-product-image">
+          <a href="https://marzenaryt1-aldzr.wpcomstaging.com/product/brelok-upadek-w-tramwaju/" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <img loading="lazy" decoding="async" width="300" height="300" src="https://i0.wp.com/marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/ecfc2bb0-5505-46c2-beec-7f48f296ec78.png?resize=300%2C300&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Brelok Upadek w Tramwaju" data-testid="product-image" data-image-id="73" style="object-fit:cover;">
+          </a>
+        </div>
+        <h2 style="line-height:1.4;margin-bottom:0.75rem;margin-top:0" class="wp-block-post-title has-medium-font-size">
+          <a data-wp-on--click="woocommerce/product-collection::actions.viewProduct" href="https://marzenaryt1-aldzr.wpcomstaging.com/product/brelok-upadek-w-tramwaju/" target="_self">Brelok Upadek w Tramwaju</a>
+        </h2>
+        <div data-block-name="woocommerce/product-price" data-font-size="small" data-text-align="center" class="has-font-size has-small-font-size has-text-align-center wp-block-woocommerce-product-price">
+          <div class="wc-block-components-product-price wc-block-grid__product-price">
+            <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">zł</span>59.00</bdi></span>
+          </div>
+        </div>
+        <div data-block-name="woocommerce/product-button" data-font-size="small" data-text-align="center" class="wp-block-button wc-block-components-product-button align-center wp-block-woocommerce-product-button has-small-font-size"
+             data-wp-interactive="woocommerce/product-button"
+             data-wp-context="{&quot;quantityToAdd&quot;:1,&quot;addToCartText&quot;:&quot;Dodaj do koszyka&quot;,&quot;tempQuantity&quot;:0,&quot;animationStatus&quot;:&quot;IDLE&quot;,&quot;inTheCartText&quot;:&quot;### w koszyku&quot;,&quot;noticeId&quot;:&quot;&quot;,&quot;hasPressedButton&quot;:false}">
+          <button class="wp-block-button__link wp-element-button wc-block-components-product-button__button add_to_cart_button ajax_add_to_cart product_type_simple has-font-size has-small-font-size has-text-align-center wc-interactive"
+                  type="button" data-product_id="74" data-product_sku="FIDA-BRL-TRAM"
+                  aria-label="Dodaj do koszyka: „Brelok Upadek w Tramwaju”" data-wp-on--click="actions.addCartItem">
+            <span data-wp-text="state.addToCartText">Dodaj do koszyka</span>
+          </button>
+          <span hidden data-wp-bind--hidden="!state.displayViewCart">
+            <a href="https://marzenaryt1-aldzr.wpcomstaging.com/koszyk/" class="added_to_cart wc_forward" title="Zobacz koszyk">Zobacz koszyk</a>
+          </span>
+        </div>
+      </li>
+
+      <!-- Produkt 4: Brelok W Kącie Kurz (simple) -->
+      <li class="wc-block-product post-70 product type-product status-publish has-post-thumbnail product_cat-breloki product_tag-nowosc last instock shipping-taxable purchasable product-type-simple"
+          data-wp-interactive="woocommerce/product-collection"
+          data-wp-key="product-item-70">
+        <div data-block-name="woocommerce/product-image" data-show-sale-badge="false" class="wc-block-components-product-image wc-block-grid__product-image wc-block-components-product-image--aspect-ratio-auto wp-block-woocommerce-product-image">
+          <a href="https://marzenaryt1-aldzr.wpcomstaging.com/product/brelok-w-kacie-kurz/" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <img loading="lazy" decoding="async" width="300" height="300" src="https://i0.wp.com/marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/1608d7cc-869b-48f8-ad03-29b0ce9406d4.png?resize=300%2C300&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Brelok W Kącie Kurz" data-testid="product-image" data-image-id="69" style="object-fit:cover;">
+          </a>
+        </div>
+        <h2 style="line-height:1.4;margin-bottom:0.75rem;margin-top:0" class="wp-block-post-title has-medium-font-size">
+          <a data-wp-on--click="woocommerce/product-collection::actions.viewProduct" href="https://marzenaryt1-aldzr.wpcomstaging.com/product/brelok-w-kacie-kurz/" target="_self">Brelok W Kącie Kurz</a>
+        </h2>
+        <div data-block-name="woocommerce/product-price" data-font-size="small" data-text-align="center" class="has-font-size has-small-font-size has-text-align-center wp-block-woocommerce-product-price">
+          <div class="wc-block-components-product-price wc-block-grid__product-price">
+            <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">zł</span>59.00</bdi></span>
+          </div>
+        </div>
+        <div data-block-name="woocommerce/product-button" data-font-size="small" data-text-align="center" class="wp-block-button wc-block-components-product-button align-center wp-block-woocommerce-product-button has-small-font-size"
+             data-wp-interactive="woocommerce/product-button"
+             data-wp-context="{&quot;quantityToAdd&quot;:1,&quot;addToCartText&quot;:&quot;Dodaj do koszyka&quot;,&quot;tempQuantity&quot;:0,&quot;animationStatus&quot;:&quot;IDLE&quot;,&quot;inTheCartText&quot;:&quot;### w koszyku&quot;,&quot;noticeId&quot;:&quot;&quot;,&quot;hasPressedButton&quot;:false}">
+          <button class="wp-block-button__link wp-element-button wc-block-components-product-button__button add_to_cart_button ajax_add_to_cart product_type_simple has-font-size has-small-font-size has-text-align-center wc-interactive"
+                  type="button" data-product_id="70" data-product_sku="FIDA-BRL-KURZ"
+                  aria-label="Dodaj do koszyka: „Brelok W Kącie Kurz”" data-wp-on--click="actions.addCartItem">
+            <span data-wp-text="state.addToCartText">Dodaj do koszyka</span>
+          </button>
+          <span hidden data-wp-bind--hidden="!state.displayViewCart">
+            <a href="https://marzenaryt1-aldzr.wpcomstaging.com/koszyk/" class="added_to_cart wc_forward" title="Zobacz koszyk">Zobacz koszyk</a>
+          </span>
+        </div>
+      </li>
+
+      <!-- Produkt 5: Czarna Koszulka (variable) -->
+      <li class="wc-block-product post-68 product type-product status-publish has-post-thumbnail product_cat-koszulki product_tag-nowosc first instock shipping-taxable purchasable product-type-variable"
+          data-wp-interactive="woocommerce/product-collection"
+          data-wp-key="product-item-68">
+        <div data-block-name="woocommerce/product-image" data-show-sale-badge="false" class="wc-block-components-product-image wc-block-grid__product-image wc-block-components-product-image--aspect-ratio-auto wp-block-woocommerce-product-image">
+          <a href="https://marzenaryt1-aldzr.wpcomstaging.com/product/czarna-koszulka-idealny-samochod/" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <img loading="lazy" decoding="async" width="300" height="300" src="https://i0.wp.com/marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/150117d1-6c50-4bcc-962d-c2442e927171.png?resize=300%2C300&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Czarna Koszulka Idealny Samochód" data-testid="product-image" data-image-id="87" style="object-fit:cover;">
+          </a>
+        </div>
+        <h2 style="line-height:1.4;margin-bottom:0.75rem;margin-top:0" class="wp-block-post-title has-medium-font-size">
+          <a data-wp-on--click="woocommerce/product-collection::actions.viewProduct" href="https://marzenaryt1-aldzr.wpcomstaging.com/product/czarna-koszulka-idealny-samochod/" target="_self">Czarna Koszulka Idealny Samochód</a>
+        </h2>
+        <div data-block-name="woocommerce/product-price" data-font-size="small" data-text-align="center" class="has-font-size has-small-font-size has-text-align-center wp-block-woocommerce-product-price">
+          <div class="wc-block-components-product-price wc-block-grid__product-price">
+            <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">zł</span>99.00</bdi></span>
+          </div>
+        </div>
+        <div data-block-name="woocommerce/product-button" data-font-size="small" data-text-align="center" class="wp-block-button wc-block-components-product-button align-center wp-block-woocommerce-product-button has-small-font-size"
+             data-wp-context="{&quot;quantityToAdd&quot;:1,&quot;addToCartText&quot;:&quot;Dodaj do koszyka&quot;,&quot;tempQuantity&quot;:0,&quot;animationStatus&quot;:&quot;IDLE&quot;,&quot;inTheCartText&quot;:&quot;### w koszyku&quot;,&quot;noticeId&quot;:&quot;&quot;,&quot;hasPressedButton&quot;:false}">
+          <a class="wp-block-button__link wp-element-button wc-block-components-product-button__button add_to_cart_button product_type_variable has-font-size has-small-font-size has-text-align-center wc-interactive"
+             href="https://marzenaryt1-aldzr.wpcomstaging.com/product/czarna-koszulka-idealny-samochod/" rel="nofollow" data-product_id="68" data-product_sku="FIDA-KOSZ-CZAR"
+             aria-label="Dodaj do koszyka: „Czarna Koszulka Idealny Samochód”" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <span>Dodaj do koszyka</span>
+          </a>
+        </div>
+      </li>
+
+      <!-- Produkt 6: Torba W Czerwoności (simple) -->
+      <li class="wc-block-product post-76 product type-product status-publish has-post-thumbnail product_cat-torby product_tag-nowosc instock shipping-taxable purchasable product-type-simple"
+          data-wp-interactive="woocommerce/product-collection"
+          data-wp-key="product-item-76">
+        <div data-block-name="woocommerce/product-image" data-show-sale-badge="false" class="wc-block-components-product-image wc-block-grid__product-image wc-block-components-product-image--aspect-ratio-auto wp-block-woocommerce-product-image">
+          <a href="https://marzenaryt1-aldzr.wpcomstaging.com/product/torba-zakupowa-w-czerwonosci-2/" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <img loading="lazy" decoding="async" width="300" height="300" src="https://i0.wp.com/marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/214e3b12-1847-4e11-a8ec-d6431fe32f03.png?resize=300%2C300&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Torba Zakupowa W Czerwoności" data-testid="product-image" data-image-id="75" style="object-fit:cover;">
+          </a>
+        </div>
+        <h2 style="line-height:1.4;margin-bottom:0.75rem;margin-top:0" class="wp-block-post-title has-medium-font-size">
+          <a data-wp-on--click="woocommerce/product-collection::actions.viewProduct" href="https://marzenaryt1-aldzr.wpcomstaging.com/product/torba-zakupowa-w-czerwonosci-2/" target="_self">Torba Zakupowa W Czerwoności</a>
+        </h2>
+        <div data-block-name="woocommerce/product-price" data-font-size="small" data-text-align="center" class="has-font-size has-small-font-size has-text-align-center wp-block-woocommerce-product-price">
+          <div class="wc-block-components-product-price wc-block-grid__product-price">
+            <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">zł</span>69.00</bdi></span>
+          </div>
+        </div>
+        <div data-block-name="woocommerce/product-button" data-font-size="small" data-text-align="center" class="wp-block-button wc-block-components-product-button align-center wp-block-woocommerce-product-button has-small-font-size"
+             data-wp-interactive="woocommerce/product-button"
+             data-wp-context="{&quot;quantityToAdd&quot;:1,&quot;addToCartText&quot;:&quot;Dodaj do koszyka&quot;,&quot;tempQuantity&quot;:0,&quot;animationStatus&quot;:&quot;IDLE&quot;,&quot;inTheCartText&quot;:&quot;### w koszyku&quot;,&quot;noticeId&quot;:&quot;&quot;,&quot;hasPressedButton&quot;:false}">
+          <button class="wp-block-button__link wp-element-button wc-block-components-product-button__button add_to_cart_button ajax_add_to_cart product_type_simple has-font-size has-small-font-size has-text-align-center wc-interactive"
+                  type="button" data-product_id="76" data-product_sku="FIDA-TORBA-CZ"
+                  aria-label="Dodaj do koszyka: „Torba Zakupowa W Czerwoności”" data-wp-on--click="actions.addCartItem">
+            <span data-wp-text="state.addToCartText">Dodaj do koszyka</span>
+          </button>
+          <span hidden data-wp-bind--hidden="!state.displayViewCart">
+            <a href="https://marzenaryt1-aldzr.wpcomstaging.com/koszyk/" class="added_to_cart wc_forward" title="Zobacz koszyk">Zobacz koszyk</a>
+          </span>
+        </div>
+      </li>
+
+      <!-- Produkt 7: Torba W Kremie (simple) -->
+      <li class="wc-block-product post-78 product type-product status-publish has-post-thumbnail product_cat-torby product_tag-nowosc instock shipping-taxable purchasable product-type-simple"
+          data-wp-interactive="woocommerce/product-collection"
+          data-wp-key="product-item-78">
+        <div data-block-name="woocommerce/product-image" data-show-sale-badge="false" class="wc-block-components-product-image wc-block-grid__product-image wc-block-components-product-image--aspect-ratio-auto wp-block-woocommerce-product-image">
+          <a href="https://marzenaryt1-aldzr.wpcomstaging.com/product/torba-zakupowa-w-kremie/" data-wp-on--click="woocommerce/product-collection::actions.viewProduct">
+            <img loading="lazy" decoding="async" width="300" height="300" src="https://i0.wp.com/marzenaryt1-aldzr.wpcomstaging.com/wp-content/uploads/2026/06/02410eab-6df0-41cc-b26b-25d577d8b304.png?resize=300%2C300&amp;ssl=1" class="attachment-woocommerce_thumbnail size-woocommerce_thumbnail" alt="Torba Zakupowa W Kremie" data-testid="product-image" data-image-id="77" style="object-fit:cover;">
+          </a>
+        </div>
+        <h2 style="line-height:1.4;margin-bottom:0.75rem;margin-top:0" class="wp-block-post-title has-medium-font-size">
+          <a data-wp-on--click="woocommerce/product-collection::actions.viewProduct" href="https://marzenaryt1-aldzr.wpcomstaging.com/product/torba-zakupowa-w-kremie/" target="_self">Torba Zakupowa W Kremie</a>
+        </h2>
+        <div data-block-name="woocommerce/product-price" data-font-size="small" data-text-align="center" class="has-font-size has-small-font-size has-text-align-center wp-block-woocommerce-product-price">
+          <div class="wc-block-components-product-price wc-block-grid__product-price">
+            <span class="woocommerce-Price-amount amount"><bdi><span class="woocommerce-Price-currencySymbol">zł</span>69.00</bdi></span>
+          </div>
+        </div>
+        <div data-block-name="woocommerce/product-button" data-font-size="small" data-text-align="center" class="wp-block-button wc-block-components-product-button align-center wp-block-woocommerce-product-button has-small-font-size"
+             data-wp-interactive="woocommerce/product-button"
+             data-wp-context="{&quot;quantityToAdd&quot;:1,&quot;addToCartText&quot;:&quot;Dodaj do koszyka&quot;,&quot;tempQuantity&quot;:0,&quot;animationStatus&quot;:&quot;IDLE&quot;,&quot;inTheCartText&quot;:&quot;### w koszyku&quot;,&quot;noticeId&quot;:&quot;&quot;,&quot;hasPressedButton&quot;:false}">
+          <button class="wp-block-button__link wp-element-button wc-block-components-product-button__button add_to_cart_button ajax_add_to_cart product_type_simple has-font-size has-small-font-size has-text-align-center wc-interactive"
+                  type="button" data-product_id="78" data-product_sku="FIDA-TORBA-KR"
+                  aria-label="Dodaj do koszyka: „Torba Zakupowa W Kremie”" data-wp-on--click="actions.addCartItem">
+            <span data-wp-text="state.addToCartText">Dodaj do koszyka</span>
+          </button>
+          <span hidden data-wp-bind--hidden="!state.displayViewCart">
+            <a href="https://marzenaryt1-aldzr.wpcomstaging.com/koszyk/" class="added_to_cart wc_forward" title="Zobacz koszyk">Zobacz koszyk</a>
+          </span>
+        </div>
+      </li>
+
+    </ul>
+  </div>
+
+</div>
+
+<script>
+(function(){
+  // Klik w obrazek lub tytuł – nawigacja do produktu (backup dla viewProduct action)
+  document.querySelectorAll('.fida-shop .wc-block-product').forEach(function(card){
+    var link = card.querySelector('.wc-block-components-product-image a');
+    if (link) {
+      link.addEventListener('click', function(e){
+        // Pozwól WC interactivity działać, tylko nawiguj jeśli nic innego
+        if (!e.defaultPrevented) {
+          window.location.href = link.href;
+        }
+      });
+    }
+  });
+})();
+</script>
